@@ -1,0 +1,80 @@
+2025-10-12 21:15:43,530 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-12 21:15:43,531 - be.manager - INFO - Objetivos a escanear: 1
+2025-10-12 21:15:43,531 - be.manager - INFO - 
+=======================================================
+2025-10-12 21:15:43,531 - be.manager - INFO - 🎯 Iniciando escaneo para: gestora.bo
+2025-10-12 21:15:43,531 - be.manager - INFO - 💾 Resultados se guardarán en: outputs/gestora.bo/gestora_bo_20251012_211543
+2025-10-12 21:15:43,531 - be.manager - INFO - =======================================================
+2025-10-12 21:15:43,531 - be.manager - INFO -   [+] Ejecutando Módulo RECON (Recolección Pasiva)...
+2025-10-12 21:15:43,531 - be.modules.recon - INFO -    [Recon] Iniciando Reconocimiento Pasivo...
+2025-10-12 21:15:43,531 - be.modules.recon - INFO -    [Subdominator] Ejecutando: /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator
+2025-10-12 21:16:03,076 - be.modules.recon - INFO -    [Subdominator] Encontrados 50 subdominios pasivos.
+2025-10-12 21:16:03,076 - be.modules.recon - INFO -    [Subfinder] Ejecutando: /usr/bin/subfinder ; o simplemente 'subfinder' si está en PATH
+2025-10-12 21:16:03,707 - be.modules.utils.helpers - WARNING - Comando falló con código 127. Stderr: __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[1;31mFTL[0m] Program exiting: no input list provided
+/bin/sh: 1: o: Permission denied
+2025-10-12 21:16:03,707 - be.modules.recon - ERROR -    [Subfinder] ❌ Error al ejecutar o parsear: Fallo en herramienta externa: /usr/bin/subfinder
+2025-10-12 21:16:03,708 - be.modules.recon - INFO -    [Amass] Ejecutando: /usr/bin/amass ; o simplemente 'amass' si está en PATH
+2025-10-12 21:16:03,777 - be.modules.utils.helpers - WARNING - Comando falló con código 127. Stderr: .+++:.            :                             .+++.
+      +W@@@@@@8        &+W@#               o8W8:      +W@@@@@@#.   oW@@@W#+
+     &@#+   .o@##.    .@@@o@W.o@@o       :@@#&W8o    .@#:  .:oW+  .@#+++&#&
+    +@&        &@&     #@8 +@W@&8@+     :@W.   +@8   +@:          .@8
+    8@          @@     8@o  8@8  WW    .@W      W@+  .@W.          o@#:
+    WW          &@o    &@:  o@+  o@+   #@.      8@o   +W@#+.        +W@8:
+    #@          :@W    &@+  &@+   @8  :@o       o@o     oW@@W+        oW@8
+    o@+          @@&   &@+  &@+   #@  &@.      .W@W       .+#@&         o@W.
+     WW         +@W@8. &@+  :&    o@+ #@      :@W&@&         &@:  ..     :@o
+     :@W:      o@# +Wo &@+        :W: +@W&o++o@W. &@&  8@#o+&@W.  #@:    o@+
+      :W@@WWWW@@8       +              :&W@@@@&    &W  .o#@@W&.   :W@WWW@@&
+        +o&&&&+.                                                    +oooo.
+
+                                                                      v4.2.0
+                                           OWASP Amass Project - @owaspamass
+                         In-depth Attack Surface Mapping and Asset Discovery
+
+
+Usage: amass intel|enum [options]
+
+  -h	Show the program usage message
+  -help
+    	Show the program usage message
+  -version
+    	Print the version number of this Amass binary
+
+
+Subcommands: 
+
+	amass intel - Discover targets for enumerations
+	amass enum  - Perform enumerations and network mapping
+
+The user's guide can be found here: 
+https://github.com/owasp-amass/amass/blob/master/doc/user_guide.md
+
+An example configuration file can be found here: 
+https://github.com/owasp-amass/amass/blob/master/examples/config.yaml
+
+The Amass tutorial can be found here: 
+https://github.com/owasp-amass/amass/blob/master/doc/tutorial.md
+
+/bin/sh: 1: o: Permission denied
+2025-10-12 21:16:03,778 - be.modules.recon - ERROR -    [Amass] ❌ Error al ejecutar o parsear: Fallo en herramienta externa: /usr/bin/amass
+2025-10-12 21:16:03,778 - be.modules.recon - INFO -    [Urlscan] Consultando urlscan.io...
+2025-10-12 21:16:05,244 - be.modules.recon - INFO -    [Urlscan] Encontrados 5 subdominios vía API.
+2025-10-12 21:16:05,247 - be.modules.recon - INFO -    [Crt.sh] Consultando crt.sh...
+2025-10-12 21:16:36,146 - be.modules.recon - ERROR -    [Crt.sh] ❌ Error al conectar o timeout: HTTPSConnectionPool(host='crt.sh', port=443): Read timed out. (read timeout=30)
+2025-10-12 21:16:36,146 - be.modules.recon - INFO -    [Recon] Total de subdominios únicos encontrados: 51
+2025-10-12 21:16:36,146 - be.modules.recon - INFO -    [Recon] Subdominios brutos guardados en outputs/gestora.bo/gestora_bo_20251012_211543/gestora_bo_subdomains.txt y outputs/gestora.bo/gestora_bo_20251012_211543/gestora_bo_subdomains.json
+2025-10-12 21:16:36,147 - be.manager - INFO -   [+] Ejecutando Módulo PROBING (LIGHT - con Httpx)...
+2025-10-12 21:16:36,147 - be.modules.probing - INFO -    [Probing] Iniciando sondeo (LIGHT) de 51 objetivos...
+2025-10-12 21:18:47,696 - be.modules.probing - INFO -    [Probing] Resultados finales guardados en: outputs/gestora.bo/gestora_bo_20251012_211543
+2025-10-12 21:18:47,697 - be.manager - INFO - =======================================================
+2025-10-12 21:18:47,697 - be.manager - INFO - ✅ Escaneo finalizado para: gestora.bo
+2025-10-12 21:18:47,697 - be.manager - INFO - =======================================================

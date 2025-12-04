@@ -1,0 +1,7 @@
+http://www.datec.com.bo:80/Web/Productos?userid=-1
+http://www.datec.com.bo:80/noticias/verNoticia.jsp?id=52
+http://www.datec.com.bo:80/noticias/verNoticia.jsp?id=62
+http://www.datec.com.bo:80/noticias/verNoticia.jsp?id=63
+http://www.datec.com.bo:80/noticias/verNoticia.jsp?id=85
+https://www.datec.com.bo/datec-lider-en-la-cadena-logistica-internacional-oea/?fbclid=IwAR1qsFaaJKctQFIomRR6rVvfhdZquVzsKc2rqX2SN4R-NGhsOHyt4fgyLHI
+https://www.datec.com.bo/google-cloud-cumple-el-reglamento-asfi/?fbclid=IwAR2CCqxbIHMOjaRHTt1bfhDa1mLiAKkizFxqXFdXOMJO3m5_DBYefgpqdUo

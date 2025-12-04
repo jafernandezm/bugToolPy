@@ -1,0 +1,12 @@
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v106/FlechaAbajo.png
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v106/faviconCRE.png
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v106/fondo_login.jpg
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v106/fondo_login_vetical.jpg
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v106/header-bottom.png
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v106/logo.png
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v77/FlechaAbajo.png
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v77/faviconCRE.png
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v77/fondo_login.jpg
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v77/fondo_login_vetical.jpg
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v77/header-bottom.png
+https://creapp.cre.com.bo/clwprd/ws_pagosweb/r/files/static/v77/logo.png

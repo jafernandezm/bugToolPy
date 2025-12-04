@@ -1,0 +1,2 @@
+https://gfo.volkswagen.de/public/include/js/common.js
+https://gfo.volkswagen.de/public/include/js/u_plugin.js

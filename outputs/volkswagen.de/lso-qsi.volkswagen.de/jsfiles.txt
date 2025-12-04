@@ -1,0 +1,7 @@
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/components.js?ln=primefaces&v=14.0.12&e=14.0.12
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/core.js?ln=primefaces&v=14.0.12&e=14.0.12
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/jquery/jquery-plugins.js?ln=primefaces&v=14.0.12&e=14.0.12
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/jquery/jquery.js?ln=primefaces&v=14.0.12&e=14.0.12
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/locales/locale-en.js?ln=primefaces&v=14.0.12&e=14.0.12
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/scripts.js?ln=js
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/validation/validation.js?ln=primefaces&v=14.0.12&e=14.0.12

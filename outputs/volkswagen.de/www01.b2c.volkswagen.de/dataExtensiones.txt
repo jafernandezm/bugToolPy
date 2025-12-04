@@ -1,0 +1,13 @@
+http://www01.b2c.volkswagen.de/.well-known/ai-plugin.json
+http://www01.b2c.volkswagen.de/.well-known/assetlinks.json
+http://www01.b2c.volkswagen.de/.well-known/dnt-policy.txt
+http://www01.b2c.volkswagen.de/.well-known/gpc.json
+http://www01.b2c.volkswagen.de/.well-known/security.txt
+http://www01.b2c.volkswagen.de/.well-known/trust.txt
+http://www01.b2c.volkswagen.de/ads.txt
+http://www01.b2c.volkswagen.de/app-ads.txt
+http://www01.b2c.volkswagen.de/sitemap.xml
+http://www01.b2c.volkswagen.de:80/robots.txt
+http://www03.b2c.volkswagen.de:80/online/aroundthetouran/incl/testreport_162003.pdf
+http://www03.b2c.volkswagen.de:80/online/facts/pdf/Preisliste.pdf
+http://www03.b2c.volkswagen.de:80/online/facts/pdf/Prospekt.pdf

@@ -1,0 +1,7 @@
+http://tis.volkswagen.de/
+https://tis.volkswagen.de
+https://tis.volkswagen.de/
+https://tis.volkswagen.de/my.logout.php3?errorcode=19
+https://tis.volkswagen.de/my.policy
+https://tis.volkswagen.de/public/include/js/common.js
+https://tis.volkswagen.de/public/include/js/u_plugin.js

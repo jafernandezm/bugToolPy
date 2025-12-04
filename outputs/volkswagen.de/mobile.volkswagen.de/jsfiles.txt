@@ -1,0 +1,1 @@
+http://mobile.volkswagen.de:80/g_extensions/basic.js

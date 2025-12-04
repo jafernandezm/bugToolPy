@@ -1,0 +1,6 @@
+https://avb-invoice.volkswagen.de
+https://avb-invoice.volkswagen.de/
+https://avb-invoice.volkswagen.de/my.logout.php3?errorcode=19
+https://avb-invoice.volkswagen.de/my.policy
+https://avb-invoice.volkswagen.de/public/include/js/common.js
+https://avb-invoice.volkswagen.de/public/include/js/u_plugin.js

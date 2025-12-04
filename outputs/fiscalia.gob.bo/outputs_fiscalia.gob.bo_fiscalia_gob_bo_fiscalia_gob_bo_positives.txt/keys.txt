@@ -1,0 +1,3 @@
+https://biblioteca.fiscalia.gob.bo/jquery/jquery.storageapi.min.js
+https://c-permanente.fiscalia.gob.bo/login/forgot_password.php
+https://web-api.fiscalia.gob.bo

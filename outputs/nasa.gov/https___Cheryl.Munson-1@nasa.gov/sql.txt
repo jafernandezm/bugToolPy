@@ -1,0 +1,2 @@
+https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=XL1-LANDR
+https://science.nasa.gov/skywatching/whats-up/?exclude_child_pages=false&order=DESC&orderby=date&layout=list&number_of_items=3&requesting_id=109860&science_only=false&show_content_type_tags=yes&show_excerpts=yes&show_pagination=true&show_readtime=yes&show_thumbnails=yes&response_format=html&listing_page=yes&listing_page_category_id=1985&post_types=post&internal_terms=6278

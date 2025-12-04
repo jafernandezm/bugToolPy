@@ -1,0 +1,2 @@
+https://isam-oidcsso-dev.volkswagen.de
+https://isam-oidcsso-dev.volkswagen.de/localdocs/styles/themes/volkswagenag/main.css

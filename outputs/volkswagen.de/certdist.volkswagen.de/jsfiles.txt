@@ -1,0 +1,13 @@
+http://certdist.volkswagen.de/faces/javax.faces.resource/core.js
+https://certdist.volkswagen.de/faces/jakarta.faces.resource/components.js?ln=primefaces&v=13.0.7&e=13.0.11
+https://certdist.volkswagen.de/faces/jakarta.faces.resource/core.js?ln=primefaces&v=13.0.7&e=13.0.11
+https://certdist.volkswagen.de/faces/jakarta.faces.resource/filedownload/filedownload.js?ln=primefaces&v=13.0.7&e=13.0.11
+https://certdist.volkswagen.de/faces/jakarta.faces.resource/jquery/jquery-plugins.js?ln=primefaces&v=13.0.7&e=13.0.11
+https://certdist.volkswagen.de/faces/jakarta.faces.resource/jquery/jquery.js?ln=primefaces&v=13.0.7&e=13.0.11
+https://certdist.volkswagen.de/faces/javax.faces.resource/components.js
+https://certdist.volkswagen.de/faces/javax.faces.resource/components.js?ln=primefaces&v=7.0.25
+https://certdist.volkswagen.de/faces/javax.faces.resource/core.js?ln=primefaces&v=7.0.25
+https://certdist.volkswagen.de/faces/javax.faces.resource/jquery/jquery-plugins.js
+https://certdist.volkswagen.de/faces/javax.faces.resource/jquery/jquery-plugins.js?ln=primefaces&v=7.0.25
+https://certdist.volkswagen.de/faces/javax.faces.resource/jquery/jquery.js
+https://certdist.volkswagen.de/faces/javax.faces.resource/jquery/jquery.js?ln=primefaces&v=7.0.25

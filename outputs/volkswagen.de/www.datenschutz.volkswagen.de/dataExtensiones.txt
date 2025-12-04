@@ -1,0 +1,15 @@
+https://datenschutz.volkswagen.de/.well-known/ai-plugin.json
+https://datenschutz.volkswagen.de/.well-known/assetlinks.json
+https://datenschutz.volkswagen.de/.well-known/dnt-policy.txt
+https://datenschutz.volkswagen.de/.well-known/gpc.json
+https://datenschutz.volkswagen.de/.well-known/security.txt
+https://datenschutz.volkswagen.de/.well-known/trust.txt
+https://datenschutz.volkswagen.de/ads.txt
+https://datenschutz.volkswagen.de/app-ads.txt
+https://datenschutz.volkswagen.de/atom.xml
+https://datenschutz.volkswagen.de/downloads/Informationsblatt_Unkenntlichmachung_DE_v5.pdf
+https://datenschutz.volkswagen.de/feed.xml
+https://datenschutz.volkswagen.de/feeds/all.atom.xml
+https://datenschutz.volkswagen.de/index.xml
+https://datenschutz.volkswagen.de/robots.txt
+https://www.datenschutz.volkswagen.de/sitemap.xml

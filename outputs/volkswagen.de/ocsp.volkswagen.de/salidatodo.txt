@@ -1,0 +1,4 @@
+http://ocsp.volkswagen.de/
+http://ocsp.volkswagen.de/favicon.ico
+http://ocsp.volkswagen.de/robots.txt
+https://ocsp.volkswagen.de

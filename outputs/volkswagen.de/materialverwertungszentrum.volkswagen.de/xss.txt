@@ -1,0 +1,8 @@
+https://materialverwertungszentrum.volkswagen.de/gmb/servlet/controller?action=PreLoginAction&actEvent=downloadImage&id=233332&name=12319_Z_Anlage2.pdf
+https://materialverwertungszentrum.volkswagen.de/gmb/servlet/controller?action=PreLoginAction&actEvent=downloadImage&id=233513&name=12442_Z_Anlage2.pdf
+https://materialverwertungszentrum.volkswagen.de/gmb/servlet/controller?action=PreLoginAction&actEvent=downloadImage&id=253562&name=14113_R_Anlage2.pdf
+https://materialverwertungszentrum.volkswagen.de/gmb/servlet/controller?action=PreLoginAction&actEvent=downloadImage&id=253563&name=14113_Z_Anlage2.pdf
+https://materialverwertungszentrum.volkswagen.de/gmb/servlet/controller?action=PreLoginAction&actEvent=downloadImage&id=254045&name=14200_Z_Anlage2.pdf
+https://materialverwertungszentrum.volkswagen.de/gmb/servlet/controller?action=PreLoginAction&actEvent=downloadImage&id=254052&name=14226_Z_Anlage2.pdf
+https://materialverwertungszentrum.volkswagen.de/gmb/servlet/controller?action=PreLoginAction&actEvent=downloadImage&id=254585&name=14240_R_Anlage2.pdf
+https://materialverwertungszentrum.volkswagen.de/gmb/servlet/controller?action=PreLoginAction&actEvent=downloadImage&id=254586&name=14240_Z_Anlage2.pdf

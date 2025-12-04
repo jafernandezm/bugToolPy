@@ -1,0 +1,2 @@
+https://rrhh-api.stage.mp.gob.bo
+https://rrhh-api.stage.mp.gob.bo/

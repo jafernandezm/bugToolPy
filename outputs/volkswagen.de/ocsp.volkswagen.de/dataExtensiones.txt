@@ -1,0 +1,1 @@
+http://ocsp.volkswagen.de/robots.txt

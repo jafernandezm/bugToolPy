@@ -1,0 +1,9 @@
+https://scc.volkswagen.de/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js
+https://scc.volkswagen.de/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/727.b723ecdf1fca913e.js
+https://scc.volkswagen.de/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/739.02c4025af8053716.js
+https://scc.volkswagen.de/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/745.52d403f7ca370d39.js
+https://scc.volkswagen.de/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/754.9959ded34812627c.js
+https://scc.volkswagen.de/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/771.87862fcf7bc30c54.js
+https://scc.volkswagen.de/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/949.28a9a7255b33dbda.js
+https://scc.volkswagen.de/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/clientlibs-priority.ab5be595bb48b9ce.js
+https://scc.volkswagen.de/etc.clientlibs/clientlibs/vwa-ngw18/ngw18-frontend/apps/resources/reactspa.775475dfc9dc67d6.js

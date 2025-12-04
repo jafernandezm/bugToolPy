@@ -1,0 +1,4 @@
+https://correo.ylb.gob.bo
+https://correo.ylb.gob.bo/static/login/
+https://correo.ylb.gob.bo/static/login/').concat(t,'
+https://correo.ylb.gob.bo/static/login/index.js

@@ -1,0 +1,15 @@
+https://www.ylb.gob.bo/wp-content/cache/autoptimize/js/autoptimize_single_0fd93189ee2bda43bc04652eadf3a2cb.js?ver=5.2
+https://www.ylb.gob.bo/wp-content/cache/autoptimize/js/autoptimize_single_13f6a0e522b1a4c653d57cdd8e1fd141.js?ver=5.2
+https://www.ylb.gob.bo/wp-content/cache/autoptimize/js/autoptimize_single_2912c657d0592cc532dff73d0d2ce7bb.js?ver=6.1.2
+https://www.ylb.gob.bo/wp-content/cache/autoptimize/js/autoptimize_single_66d891fb13c890a255c94f3005637d4b.js
+https://www.ylb.gob.bo/wp-content/cache/autoptimize/js/autoptimize_single_7b303a3649c602dbb47e6a9b8f867f2a.js?ver=5.2
+https://www.ylb.gob.bo/wp-content/cache/autoptimize/js/autoptimize_single_96e7dc3f0e8559e4a3f3ca40b17ab9c3.js?ver=6.1.2
+https://www.ylb.gob.bo/wp-content/cache/autoptimize/js/autoptimize_single_af144a7ebe053494cf6bd73ed470f475.js?ver=1.0.0
+https://www.ylb.gob.bo/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.min.js?ver=4.3.2
+https://www.ylb.gob.bo/wp-content/themes/gob_bo/assets/js/bootstrap.bundle.min.js?ver=5.2
+https://www.ylb.gob.bo/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+https://www.ylb.gob.bo/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+https://www.ylb.gob.bo/wp-includes/js/dist/script-modules/block-library/file/view.min.js?ver=fdc2f6842e015af83140
+https://www.ylb.gob.bo/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb
+https://www.ylb.gob.bo/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+https://www.ylb.gob.bo/wp-includes/js/jquery/jquery.min.js?ver=3.7.1

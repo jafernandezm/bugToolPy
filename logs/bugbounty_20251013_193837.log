@@ -1,0 +1,4 @@
+2025-10-13 19:38:37,134 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-13 19:38:37,134 - be.manager - INFO - Objetivos a procesar: 2
+2025-10-13 19:38:37,135 - be.manager - INFO - [+] Iniciando en modo 'Solo URLs'.
+2025-10-13 19:38:37,135 - be.manager - ERROR - ❌ En modo 'Solo URLs', la entrada (-u o -l) debe contener URLs completas (ej: https://dominio.com).

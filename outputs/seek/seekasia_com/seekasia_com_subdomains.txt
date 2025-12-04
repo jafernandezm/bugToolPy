@@ -1,0 +1,217 @@
+104.16.0.0/14 (Netblock) --> contains --> 104.18.39.223 (IPAddress)
+104.16.0.0/14 (Netblock) --> contains --> 104.18.41.198 (IPAddress)
+104.16.0.0/14 (Netblock) --> contains --> 104.18.42.164 (IPAddress)
+13335 (ASN) --> announces --> 104.16.0.0/14 (Netblock)
+13335 (ASN) --> announces --> 172.64.144.0/20 (Netblock)
+13335 (ASN) --> announces --> 2606:4700:4403::/48 (Netblock)
+13335 (ASN) --> announces --> 2606:4700:440a::/48 (Netblock)
+13335 (ASN) --> announces --> 2a06:98c1:3104::/48 (Netblock)
+13335 (ASN) --> announces --> 2a06:98c1:310c::/48 (Netblock)
+13335 (ASN) --> managed_by --> CLOUDFLARENET - Cloudflare, Inc. (RIROrganization)
+14061 (ASN) --> announces --> 45.55.0.0/16 (Netblock)
+14061 (ASN) --> managed_by --> DIGITALOCEAN-ASN - DigitalOcean, LLC (RIROrganization)
+148.163.144.0/21 (Netblock) --> contains --> 148.163.149.204 (IPAddress)
+148.163.152.0/22 (Netblock) --> contains --> 148.163.152.253 (IPAddress)
+16509 (ASN) --> announces --> 205.251.192.0/21 (Netblock)
+16509 (ASN) --> announces --> 2600:9000:5300::/45 (Netblock)
+16509 (ASN) --> managed_by --> AMAZON-02 - Amazon.com, Inc. (RIROrganization)
+172.64.144.0/20 (Netblock) --> contains --> 172.64.145.92 (IPAddress)
+172.64.144.0/20 (Netblock) --> contains --> 172.64.146.58 (IPAddress)
+172.64.144.0/20 (Netblock) --> contains --> 172.64.148.33 (IPAddress)
+202.133.104.0/24 (Netblock) --> contains --> 202.133.104.235 (IPAddress)
+202.79.200.0/21 (Netblock) --> contains --> 202.79.201.18 (IPAddress)
+205.251.192.0/21 (Netblock) --> contains --> 205.251.193.233 (IPAddress)
+205.251.192.0/21 (Netblock) --> contains --> 205.251.195.210 (IPAddress)
+205.251.192.0/21 (Netblock) --> contains --> 205.251.197.204 (IPAddress)
+205.251.192.0/21 (Netblock) --> contains --> 205.251.199.98 (IPAddress)
+22843 (ASN) --> announces --> 148.163.152.0/22 (Netblock)
+22843 (ASN) --> managed_by --> PROOFPOINT-ASN-US-EAST - Proofpoint, Inc. (RIROrganization)
+23678 (ASN) --> announces --> 202.133.104.0/24 (Netblock)
+23678 (ASN) --> managed_by --> AS23678 - Enterprise Managed Services Sdn. Bhd. (RIROrganization)
+2600:9000:5300::/45 (Netblock) --> contains --> 2600:9000:5301:e900::1 (IPAddress)
+2600:9000:5300::/45 (Netblock) --> contains --> 2600:9000:5303:d200::1 (IPAddress)
+2600:9000:5300::/45 (Netblock) --> contains --> 2600:9000:5305:cc00::1 (IPAddress)
+2600:9000:5300::/45 (Netblock) --> contains --> 2600:9000:5307:6200::1 (IPAddress)
+2606:4700:4403::/48 (Netblock) --> contains --> 2606:4700:4403::6812:2aa4 (IPAddress)
+2606:4700:440a::/48 (Netblock) --> contains --> 2606:4700:440a::6812:27df (IPAddress)
+26211 (ASN) --> announces --> 148.163.144.0/21 (Netblock)
+26211 (ASN) --> managed_by --> PROOFPOINT-ASN-US-WEST - Proofpoint, Inc. (RIROrganization)
+27.111.208.0/22 (Netblock) --> contains --> 27.111.210.80 (IPAddress)
+2a06:98c1:3104::/48 (Netblock) --> contains --> 2a06:98c1:3104::ac40:9421 (IPAddress)
+2a06:98c1:310c::/48 (Netblock) --> contains --> 2a06:98c1:310c::ac40:915c (IPAddress)
+45.55.0.0/16 (Netblock) --> contains --> 45.55.110.124 (IPAddress)
+9989 (ASN) --> announces --> 202.79.200.0/21 (Netblock)
+9989 (ASN) --> announces --> 27.111.208.0/22 (Netblock)
+9989 (ASN) --> managed_by --> EQUINIX-AP Equinix Singapore Pte Ltd (RIROrganization)
+agile-stage.seekasia.com
+agile.seekasia.com
+api-ca.seekasia.com
+api-stage.seekasia.com
+api.ca.seekasia.com
+api.seekasia.com
+app-status-dev.seekasia.com
+app-status-prod.seekasia.com
+app-status-stage.seekasia.com
+apple.tableau-stage.seekasia.com
+auth-integration.seekasia.com
+auth.seekasia.com
+brand.seekasia.com
+burger-stage.mx.seekasia.com
+burger-staging.mx.seekasia.com
+ca.seekasia.com
+caja-graphql-stage.seekasia.com
+candidate-ab-testing.seekasia.com
+candy-bricks-api.seekasia.com
+career-advice-sg.kinsta.seekasia.com
+careeradvice-id.kinsta.seekasia.com
+careeradvice-my.kinsta.seekasia.com
+careeradvice-ph.kinsta.seekasia.com
+careeradvice-sg.kinsta.seekasia.com
+careeradvice-th.kinsta.seekasia.com
+careeradvice.kinsta.seekasia.com
+careercounsellor-id.kinsta.seekasia.com
+careercounsellor-my.kinsta.seekasia.com
+careercounsellor-ph.kinsta.seekasia.com
+careercounsellor-sg.kinsta.seekasia.com
+careercounsellor.kinsta.seekasia.com
+category-suggest-middleware-stage.seekasia.com
+ccpa.seekasia.com
+cdn.seekasia.com
+cm-monitor.seekasia.com
+ctl-admin.seekasia.com
+ctl-api-jdbhk-stg.seekasia.com
+ctl-api-jdbhk.seekasia.com
+customerservice.seekasia.com
+draft-api-stage.seekasia.com
+engineering.seekasia.com
+engineering.seekasia.com (FQDN) --> a_record --> 45.55.110.124 (IPAddress)
+ess.seekasia.com
+ess.seekasia.com (FQDN) --> cname_record --> ess.seekasia.com.cdn.cloudflare.net (FQDN)
+gap-ui-stage.seekasia.com
+gap-ui.seekasia.com
+gbtw-hk.kinsta.seekasia.com
+gbtw-id.kinsta.seekasia.com
+gbtw-my.kinsta.seekasia.com
+gbtw-ph.kinsta.seekasia.com
+gbtw-sg.kinsta.seekasia.com
+gbtw-th.kinsta.seekasia.com
+helpdesk.seekasia.com
+hress.seekasia.com
+job-alerts-jdb-dev.seekasia.com
+job-alerts-jdb-prod.seekasia.com
+job-alerts-js-dev.seekasia.com
+job-alerts-js-prod.seekasia.com
+jobsdb-hk.kinsta.seekasia.com
+jobsdb-id.kinsta.seekasia.com
+jobsdb-th.kinsta.seekasia.com
+jobstreet-about.kinsta.seekasia.com
+jobstreet-id.kinsta.seekasia.com
+jobstreet-my.kinsta.seekasia.com
+jobstreet-ph.kinsta.seekasia.com
+jobstreet-sg.kinsta.seekasia.com
+jobstreet-user.kinsta.seekasia.com
+library.seekasia.com
+login-dev.seekasia.com
+login-stage.seekasia.com
+login-staging.seekasia.com
+login.seekasia.com
+login.staging.seekasia.com
+lyncdiscover.seekasia.com
+mail.seekasia.com
+mobile-xapi-stage.seekasia.com
+mobile-xapi.seekasia.com
+monitor-legacy.seekasia.com
+mx.seekasia.com
+mxa-002a9501.gslb.pphosted.com (FQDN) --> a_record --> 148.163.149.204 (IPAddress)
+mxb-002a9501.gslb.pphosted.com (FQDN) --> a_record --> 148.163.152.253 (IPAddress)
+myctivs-mmcs.seekasia.com
+myctivs-mmcs.seekasia.com (FQDN) --> a_record --> 202.133.104.235 (IPAddress)
+nagios.seekasia.com
+ns-1484.awsdns-57.org (FQDN) --> a_record --> 205.251.197.204 (IPAddress)
+ns-1484.awsdns-57.org (FQDN) --> aaaa_record --> 2600:9000:5305:cc00::1 (IPAddress)
+ns-1890.awsdns-44.co.uk (FQDN) --> a_record --> 205.251.199.98 (IPAddress)
+ns-1890.awsdns-44.co.uk (FQDN) --> aaaa_record --> 2600:9000:5307:6200::1 (IPAddress)
+ns-489.awsdns-61.com (FQDN) --> a_record --> 205.251.193.233 (IPAddress)
+ns-489.awsdns-61.com (FQDN) --> aaaa_record --> 2600:9000:5301:e900::1 (IPAddress)
+ns-978.awsdns-58.net (FQDN) --> a_record --> 205.251.195.210 (IPAddress)
+ns-978.awsdns-58.net (FQDN) --> aaaa_record --> 2600:9000:5303:d200::1 (IPAddress)
+ops.seekasia.com
+partners-id.kinsta.seekasia.com
+portal.gslb.seekasia.com
+portal.seekasia.com
+portal2.seekasia.com
+print.seekasia.com
+profile-api.seekasia.com
+profile-hirer-api.seekasia.com
+prtg.seekasia.com
+rangers.seekasia.com
+rnr.seekasia.com
+rr-api-stage.seekasia.com
+rr-api.seekasia.com
+salaryguide-hk.kinsta.seekasia.com
+salaryguide-id.kinsta.seekasia.com
+salaryguide-my.kinsta.seekasia.com
+salaryguide-ph.kinsta.seekasia.com
+salaryguide-sg.kinsta.seekasia.com
+salaryguide-th.kinsta.seekasia.com
+seekasia.com
+seekasia.com (FQDN) --> a_record --> 104.18.41.198 (IPAddress)
+seekasia.com (FQDN) --> a_record --> 172.64.146.58 (IPAddress)
+seekasia.com (FQDN) --> mx_record --> mxa-002a9501.gslb.pphosted.com (FQDN)
+seekasia.com (FQDN) --> mx_record --> mxb-002a9501.gslb.pphosted.com (FQDN)
+seekasia.com (FQDN) --> ns_record --> ns-1484.awsdns-57.org (FQDN)
+seekasia.com (FQDN) --> ns_record --> ns-1890.awsdns-44.co.uk (FQDN)
+seekasia.com (FQDN) --> ns_record --> ns-489.awsdns-61.com (FQDN)
+seekasia.com (FQDN) --> ns_record --> ns-978.awsdns-58.net (FQDN)
+selfserviceportal.seekasia.com
+sg1-vpngw01.seekasia.com
+sg1-vpngw01.seekasia.com (FQDN) --> a_record --> 202.79.201.18 (IPAddress)
+sg2-vpngw01.seekasia.com
+sg2-vpngw01.seekasia.com (FQDN) --> a_record --> 27.111.210.80 (IPAddress)
+sguide-my.kinsta.seekasia.com
+sportal.seekasia.com
+stage-v730.rangers.seekasia.com
+stage.rangers.seekasia.com
+stagev1.rangers.seekasia.com
+stagev107.rangers.seekasia.com
+stagev110.rangers.seekasia.com
+stagev2.rangers.seekasia.com
+stagev730.rangers.seekasia.com
+staging.seekasia.com
+staging.seekasia.com (FQDN) --> cname_record --> staging.seekasia.com.cdn.cloudflare.net (FQDN)
+staging.seekasia.com.cdn.cloudflare.net (FQDN) --> a_record --> 104.18.42.164 (IPAddress)
+staging.seekasia.com.cdn.cloudflare.net (FQDN) --> a_record --> 172.64.145.92 (IPAddress)
+staging.seekasia.com.cdn.cloudflare.net (FQDN) --> aaaa_record --> 2606:4700:4403::6812:2aa4 (IPAddress)
+staging.seekasia.com.cdn.cloudflare.net (FQDN) --> aaaa_record --> 2a06:98c1:310c::ac40:915c (IPAddress)
+stg-jsmy.kinsta.seekasia.com
+tableau-okta-poc.seekasia.com
+tableau-stage.seekasia.com
+tableau.seekasia.com
+talentsearch-api-dev.seekasia.com
+tap-compare-dev.seekasia.com
+tap-compare-prod.seekasia.com
+taxonomy-dev.seekasia.com
+taxonomy-stage.seekasia.com
+taxonomy.seekasia.com
+teb-dev.cdn.seekasia.com
+teb.cdn.seekasia.com
+testing.seekasia.com
+tryout-gantry.rangers.seekasia.com
+vendor.gslb.seekasia.com
+vendor.seekasia.com
+vpn.seekasia.com
+vpn.seekasia.com (FQDN) --> a_record --> 202.79.201.18 (IPAddress)
+wdc.rangers.seekasia.com
+www.gslb.seekasia.com
+www.seekasia.com
+www.seekasia.com (FQDN) --> cname_record --> www.seekasia.com.cdn.cloudflare.net (FQDN)
+www.seekasia.com.cdn.cloudflare.net (FQDN) --> a_record --> 104.18.39.223 (IPAddress)
+www.seekasia.com.cdn.cloudflare.net (FQDN) --> a_record --> 172.64.148.33 (IPAddress)
+www.seekasia.com.cdn.cloudflare.net (FQDN) --> aaaa_record --> 2606:4700:440a::6812:27df (IPAddress)
+www.seekasia.com.cdn.cloudflare.net (FQDN) --> aaaa_record --> 2a06:98c1:3104::ac40:9421 (IPAddress)
+www.staging.seekasia.com
+www.staging.seekasia.com (FQDN) --> cname_record --> www.staging.seekasia.com.cdn.cloudflare.net (FQDN)
+www.staging.seekasia.com.cdn.cloudflare.net (FQDN) --> a_record --> 104.18.42.164 (IPAddress)
+www.staging.seekasia.com.cdn.cloudflare.net (FQDN) --> a_record --> 172.64.145.92 (IPAddress)
+www.staging.seekasia.com.cdn.cloudflare.net (FQDN) --> aaaa_record --> 2606:4700:4403::6812:2aa4 (IPAddress)
+www.staging.seekasia.com.cdn.cloudflare.net (FQDN) --> aaaa_record --> 2a06:98c1:310c::ac40:915c (IPAddress)

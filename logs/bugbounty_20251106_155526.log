@@ -1,0 +1,10 @@
+2025-11-06 15:55:26,160 - __main__ - INFO - Iniciando BugBounty Framework
+2025-11-06 15:55:26,161 - be.manager - INFO - Objetivos cargados: 1
+2025-11-06 15:55:26,161 - be.manager - INFO - [+] Iniciando en modo Reconocimiento...
+2025-11-06 15:55:26,161 - be.manager - INFO - 💾 Resultados se guardarán en: outputs/endesyc.bo
+2025-11-06 15:55:26,161 - be.manager - INFO - 💾 Resultados para ende.bo se guardarán en: outputs/endesyc.bo/ende_bo
+2025-11-06 15:55:26,161 - be.manager - INFO - 
+=======================================================
+2025-11-06 15:55:26,161 - be.manager - INFO - 🎯 Iniciando escaneo para el objetivo: ende.bo
+2025-11-06 15:55:26,161 - be.modules.recon - INFO -    [Recon] Iniciando Reconocimiento Pasivo...
+2025-11-06 15:55:26,162 - be.modules.recon - INFO -    [Subdominator] Ejecutando (Timeout: 300s)...

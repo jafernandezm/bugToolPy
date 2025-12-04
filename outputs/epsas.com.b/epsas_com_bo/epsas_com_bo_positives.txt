@@ -1,0 +1,16 @@
+autodiscover.epsas.com.bo
+cpanel.epsas.com.bo
+cpcalendars.epsas.com.bo
+cpcontacts.epsas.com.bo
+epsas.com.bo
+mail.epsas.com.bo
+webdisk.epsas.com.bo
+webmail.epsas.com.bo
+www.epsas.com.bo
+qrbcp.serviciosepsas.com
+back-webappqr.serviciosepsas.com
+back-app.serviciosepsas.com
+correspondencia.serviciosepsas.com
+mail.serviciosepsas.com
+serviciosepsas.com
+www.serviciosepsas.com

@@ -1,0 +1,18 @@
+https://passwordchange-qs.volkswagen.de
+https://passwordchange.volkswagen.de
+https://totp-register-qs.volkswagen.de
+https://totp-register-qs.volkswagen.de/
+https://totp-register-qs.volkswagen.de/localdocs/css/style.min.css?v=1645640336767
+https://totp-register-qs.volkswagen.de/localdocs/help/groupidp/C
+https://totp-register-qs.volkswagen.de/localdocs/help/groupidp/C/index.html
+https://totp-register-qs.volkswagen.de/localdocs/help/groupidp/de
+https://totp-register-qs.volkswagen.de/localdocs/images/favicons/site.webmanifest
+https://totp-register-qs.volkswagen.de/localdocs/js/help.legacy.min.js?v=1645640336767
+https://totp-register-qs.volkswagen.de/localdocs/js/help.min.js?v=1645640336767
+https://totp-register-qs.volkswagen.de/localdocs/js/main.legacy.min.js?v=1645640336767
+https://totp-register-qs.volkswagen.de/localdocs/js/main.min.js?v=1645640336767
+https://totp-register-qs.volkswagen.de/localdocs/js/polyfill.legacy.min.js?v=1645640336767
+https://totp-register-qs.volkswagen.de/localdocs/js/samlsso.js
+https://totp-register-qs.volkswagen.de/localdocs/licenses/C/third-party-licenses.html
+mailto:ehdd@volkswagen.de
+mailto:ehdd@volkswagen.de?subject=Help for Login

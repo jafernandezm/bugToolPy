@@ -1,0 +1,5 @@
+https://political-report.volkswagen.de
+https://political-report.volkswagen.de/
+https://political-report.volkswagen.de/masterdata/saml2/authenticate/default
+https://political-report.volkswagen.de/masterdata/ui/
+https://political-report.volkswagen.de/masterdata/ui/samlLogin

@@ -1,0 +1,18 @@
+https://gsl-signup.volkswagen.de
+https://gsl-signup.volkswagen.de/
+https://gsl-signup.volkswagen.de/localdocs/css/style.min.css?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/help/groupidp/C
+https://gsl-signup.volkswagen.de/localdocs/help/groupidp/C/index.html
+https://gsl-signup.volkswagen.de/localdocs/help/groupidp/de
+https://gsl-signup.volkswagen.de/localdocs/images/favicons/site.webmanifest
+https://gsl-signup.volkswagen.de/localdocs/js/help.legacy.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/help.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/main.legacy.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/main.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/polyfill.legacy.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/samlsso.js
+https://gsl-signup.volkswagen.de/localdocs/licenses/C/third-party-licenses.html
+https://passwordchange-qs.volkswagen.de
+https://passwordchange.volkswagen.de
+mailto:ehdd@volkswagen.de
+mailto:ehdd@volkswagen.de?subject=Help for Login

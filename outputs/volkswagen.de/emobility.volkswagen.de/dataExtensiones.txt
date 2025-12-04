@@ -1,0 +1,3 @@
+http://emobility.volkswagen.de/de/de/private/Technologie/Charge-and-Fuel-Card/components/03/text1_files/file/document/160191VWAM_FL_Energie-Hybridkarte_RZ.pdf
+http://emobility.volkswagen.de/robots.txt
+http://emobility.volkswagen.de:80/dms/erweiterungsmobilitaet/Mobilitaet_Prospekt_08-01-14-2/Mobilitaet_Prospekt_08-01-14-2.pdf

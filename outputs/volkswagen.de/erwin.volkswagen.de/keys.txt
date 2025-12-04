@@ -1,0 +1,5 @@
+https://erwin.volkswagen.de/erwin/forgotPassword.do
+https://erwin.volkswagen.de/erwin/showForgotPassword.do
+https://erwin.volkswagen.de/erwin/showForgotPassword.do;jsessionid=0508FCE86EF1A9183DE2145FBBFBA92D.ASTPERWEU01
+https://erwin.volkswagen.de/erwin/showForgotPassword.do;jsessionid=5775573A5A15E79599DB84A97ED58F63.ASTPERWEU01
+https://erwin.volkswagen.de/erwin/showForgotPassword.do;jsessionid=8A18E3E418ECF6029E7A967FB58E89DC.ASTPERWEU01

@@ -1,0 +1,13 @@
+http://www01.b2c.volkswagen.de:80/SI/Web/UI/Legend/bt_schliessen.gif
+http://www01.b2c.volkswagen.de:80/SI/Web/UI/Legend/icon_agentur.gif
+http://www01.b2c.volkswagen.de:80/SI/Web/UI/Legend/icon_partner.gif
+http://www01.b2c.volkswagen.de:80/SI/Web/UI/Legend/icon_werkstatt.gif
+http://www01.b2c.volkswagen.de:80/SI/Web/UI/Legend/legend01.gif
+http://www01.b2c.volkswagen.de:80/np/ci.gif?enc=001&evt=EvtID=010000000000
+http://www01.b2c.volkswagen.de:80/np/ci.gif?enc=001&evt=EvtID=020000000000
+http://www01.b2c.volkswagen.de:80/np/ci.gif?enc=001&evt=EvtID=020200000000
+http://www01.b2c.volkswagen.de:80/np/ci.gif?enc=001&evt=EvtID=030000000000
+http://www01.b2c.volkswagen.de:80/np/ci.gif?enc=001&evt=EvtID=060000000000
+http://www01.b2c.volkswagen.de:80/np/ci.gif?enc=001&evt=EvtID=090100000000
+http://www03.b2c.volkswagen.de:80/online/common/graphics/dot_trans.gif
+http://www03.b2c.volkswagen.de:80/online/gallery/pictures/thumb01_hi.jpg

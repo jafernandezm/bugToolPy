@@ -1,0 +1,5 @@
+https://sso.volkswagen.de/ssr/faces/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/basic_classes.xcss/DATB/eAG7-EFAJnT5DGkAEqADnQ__;jsessionid=242CA94713536F735285C4A596311900.lxpg37
+https://sso.volkswagen.de/ssr/faces/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/extended_classes.xcss/DATB/eAG7-EFAJnT5DGkAEqADnQ__;jsessionid=242CA94713536F735285C4A596311900.lxpg37
+https://sso.volkswagen.de/ssr/images/circle_transparent.gif;jsessionid=242CA94713536F735285C4A596311900.lxpg37
+https://sso.volkswagen.de/ssr/images/en/supplier_self_registration.gif;jsessionid=242CA94713536F735285C4A596311900.lxpg37
+https://sso.volkswagen.de/ssr/images/vwgs_logo.gif;jsessionid=242CA94713536F735285C4A596311900.lxpg37

@@ -1,0 +1,15 @@
+https://sigec.ylb.gob.bo/static/js/core/demo/Demo.js
+https://sigec.ylb.gob.bo/static/js/core/source/App.js
+https://sigec.ylb.gob.bo/static/js/core/source/AppCard.js
+https://sigec.ylb.gob.bo/static/js/core/source/AppForm.js
+https://sigec.ylb.gob.bo/static/js/core/source/AppNavSearch.js
+https://sigec.ylb.gob.bo/static/js/core/source/AppNavigation.js
+https://sigec.ylb.gob.bo/static/js/core/source/AppOffcanvas.js
+https://sigec.ylb.gob.bo/static/js/core/source/AppVendor.js
+https://sigec.ylb.gob.bo/static/js/libs/autosize/jquery.autosize.min.js
+https://sigec.ylb.gob.bo/static/js/libs/bootstrap/bootstrap.min.js
+https://sigec.ylb.gob.bo/static/js/libs/jquery-validation/dist/jquery.validate.min.js
+https://sigec.ylb.gob.bo/static/js/libs/jquery/jquery-1.11.2.min.js
+https://sigec.ylb.gob.bo/static/js/libs/jquery/jquery-migrate-1.2.1.min.js
+https://sigec.ylb.gob.bo/static/js/libs/nanoscroller/jquery.nanoscroller.min.js
+https://sigec.ylb.gob.bo/static/js/libs/spin.js/spin.min.js

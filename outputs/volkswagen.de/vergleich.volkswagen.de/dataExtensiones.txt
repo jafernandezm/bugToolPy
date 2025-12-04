@@ -1,0 +1,6 @@
+https://vergleich.volkswagen.de/de.global-config.json
+https://vergleich.volkswagen.de/idhub/content/dam/onehub_master/pc/vergleich/Rahmenvergleich_28-02-2020.pdf?tc=em-verg2-200309-2
+https://vergleich.volkswagen.de/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/favicons/manifest.json
+https://vergleich.volkswagen.de/robots.txt
+https://vergleich.volkswagen.de/sitemap.xml
+https://vergleich.volkswagen.de:443/de.service-config.json

@@ -1,0 +1,10 @@
+http://cocoa.volkswagen.de/robots.txt
+https://cocoa.volkswagen.de/.well-known/ai-plugin.json
+https://cocoa.volkswagen.de/.well-known/assetlinks.json
+https://cocoa.volkswagen.de/.well-known/gpc.json
+https://cocoa.volkswagen.de/.well-known/security.txt
+https://cocoa.volkswagen.de/.well-known/trust.txt
+https://cocoa.volkswagen.de/ads.txt
+https://cocoa.volkswagen.de/app-ads.txt
+https://cocoa.volkswagen.de/localdocs/extra/redirect.txt
+https://cocoa.volkswagen.de/sitemap.xml

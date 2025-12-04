@@ -1,0 +1,9 @@
+2025-10-13 19:06:16.034 [info] Started local extension host with pid 76643.
+2025-10-13 19:06:18.939 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-13 19:06:19.992 [info] [perf] Render performance baseline is 85ms
+2025-10-13 19:06:47.945 [error] Unknown (FileSystemError): Error: ENXIO: no such device or address, open '/home/warrior/Escritorio/web/bugToolPy/1.10-main.sock'
+    at v7.create (file:///usr/share/code/resources/app/out/main.js:38:29705)
+    at Qi (file:///usr/share/code/resources/app/out/main.js:38:26959)
+    at _c.jb (file:///usr/share/code/resources/app/out/main.js:62:22448)
+    at _c.readFile (file:///usr/share/code/resources/app/out/main.js:62:17105)
+    at async y4.m (file:///usr/share/code/resources/app/out/main.js:62:23961)

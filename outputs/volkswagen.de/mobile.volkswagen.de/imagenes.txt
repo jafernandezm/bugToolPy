@@ -1,0 +1,16 @@
+http://mobile.volkswagen.de/g_images/de/hl_bestellung.gif
+http://mobile.volkswagen.de/g_images/de/logovw.gif
+http://mobile.volkswagen.de:80/g_images/btn_codeanf.gif
+http://mobile.volkswagen.de:80/g_images/btn_schliessen.gif
+http://mobile.volkswagen.de:80/g_images/btn_weiter.gif
+http://mobile.volkswagen.de:80/g_images/code_anfordern.gif
+http://mobile.volkswagen.de:80/g_images/cz/code_anfordern.gif
+http://mobile.volkswagen.de:80/g_images/cz/header_grey.gif
+http://mobile.volkswagen.de:80/g_images/cz/schliessen.gif
+http://mobile.volkswagen.de:80/g_images/cz/weiter.gif
+http://mobile.volkswagen.de:80/g_images/de/code_anfordern.gif
+http://mobile.volkswagen.de:80/g_images/de/header_grey.gif
+http://mobile.volkswagen.de:80/g_images/de/schliessen.gif
+http://mobile.volkswagen.de:80/g_images/de/weiter.gif
+http://mobile.volkswagen.de:80/g_images/header_grey.gif
+http://mobile.volkswagen.de:80/g_images/schliessen.gif

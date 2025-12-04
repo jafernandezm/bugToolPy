@@ -1,0 +1,13 @@
+2025-10-10 16:27:49,281 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-10 16:27:49,282 - be.manager - INFO - Objetivos a escanear: 1
+2025-10-10 16:27:49,282 - be.manager - INFO - 
+=======================================================
+2025-10-10 16:27:49,282 - be.manager - INFO - 🎯 Iniciando escaneo para: bancofortaleza.com.bo
+2025-10-10 16:27:49,282 - be.manager - INFO - 💾 Resultados se guardarán en: bancofortaleza.com.bo/bancofortaleza_com_bo_20251010_162749
+2025-10-10 16:27:49,282 - be.manager - INFO - =======================================================
+2025-10-10 16:27:49,282 - be.manager - INFO -   [+] Ejecutando Módulo RECON (Recolección Pasiva)...
+2025-10-10 16:27:49,282 - be.manager - ERROR -    ❌ Módulo Recon falló para bancofortaleza.com.bo: ReconModule.__init__() takes 4 positional arguments but 5 were given
+2025-10-10 16:27:49,282 - be.manager - WARNING -   [!] Reconocimiento pasivo no encontró subdominios válidos para sondear.
+2025-10-10 16:27:49,283 - be.manager - INFO - =======================================================
+2025-10-10 16:27:49,283 - be.manager - INFO - ✅ Escaneo finalizado para: bancofortaleza.com.bo
+2025-10-10 16:27:49,283 - be.manager - INFO - =======================================================

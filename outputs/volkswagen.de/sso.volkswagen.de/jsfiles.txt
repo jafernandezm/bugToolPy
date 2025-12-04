@@ -1,0 +1,7 @@
+http://sso.volkswagen.de:80/sverkauf/html/de/scripts/iv_all_de_jslib.js
+https://sso.volkswagen.de/ssr/faces/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/skinning.js
+https://sso.volkswagen.de/ssr/faces/js_css/internationalFieldHandler.js
+https://sso.volkswagen.de/ssr/faces/js_css/prototype.js
+https://sso.volkswagen.de/ssr/faces/js_css/registrationForm.js
+https://sso.volkswagen.de/ssr/faces/js_css/utility.js
+https://sso.volkswagen.de/ssr/faces/js_css/window.js

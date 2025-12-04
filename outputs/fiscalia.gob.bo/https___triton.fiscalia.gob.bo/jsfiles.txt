@@ -1,0 +1,6 @@
+https://triton.fiscalia.gob.bo/inspinia_v27/js/bootstrap.min.js
+https://triton.fiscalia.gob.bo/inspinia_v27/js/jquery-3.1.1.min.js
+https://triton.fiscalia.gob.bo/inspinia_v27/js/plugins/iCheck/icheck.min.js
+https://triton.fiscalia.gob.bo/js/app.js
+https://triton.fiscalia.gob.bo/js/app.js?v=00048
+https://triton.fiscalia.gob.bo/js/app.js?v=00069

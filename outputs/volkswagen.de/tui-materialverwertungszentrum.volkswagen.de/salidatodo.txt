@@ -1,0 +1,5 @@
+https://tui-materialverwertungszentrum.volkswagen.de
+https://tui-materialverwertungszentrum.volkswagen.de/chcredirect/css/responsive.css
+https://tui-materialverwertungszentrum.volkswagen.de/chcredirect/css/style.css
+https://tui-materialverwertungszentrum.volkswagen.de/chcredirect/js/general.js
+https://tui-materialverwertungszentrum.volkswagen.de/gmb/

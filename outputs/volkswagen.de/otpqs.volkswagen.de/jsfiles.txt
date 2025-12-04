@@ -1,0 +1,2 @@
+https://otpqs.volkswagen.de/public/include/js/common.js
+https://otpqs.volkswagen.de/public/include/js/u_plugin.js

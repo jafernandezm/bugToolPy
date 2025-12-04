@@ -1,0 +1,2 @@
+http://api.qa.whatsup.volkswagen.de/
+https://api.qa.whatsup.volkswagen.de

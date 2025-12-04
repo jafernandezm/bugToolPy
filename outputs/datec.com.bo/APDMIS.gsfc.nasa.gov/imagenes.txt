@@ -1,0 +1,6 @@
+https://apdmis.gsfc.nasa.gov/CFIDE/administrator/templates/assets/spot.png
+https://apdmis.gsfc.nasa.gov/i/logo_gpm_bg.jpg
+https://apdmis.gsfc.nasa.gov/i/nasalogo.gif
+https://apdmis.gsfc.nasa.gov/i/navlink.gif
+https://apdmis.gsfc.nasa.gov/i/signin.gif
+https://apdmis.gsfc.nasa.gov/i/spacer.gif

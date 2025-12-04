@@ -1,0 +1,6 @@
+https://gsl-signup.volkswagen.de/localdocs/js/help.legacy.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/help.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/main.legacy.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/main.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/polyfill.legacy.min.js?v=1645640336767
+https://gsl-signup.volkswagen.de/localdocs/js/samlsso.js

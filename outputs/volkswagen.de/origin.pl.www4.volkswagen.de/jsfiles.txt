@@ -1,0 +1,16 @@
+http://origin.pl.www4.volkswagen.de/apps/vwd4_base/docroot0244104035/cms/js/vwd4.cms_formlayer.js
+http://origin.pl.www4.volkswagen.de/apps/vwd4_base/docroot0244104035/cms/js/vwd4.cms_forms.js
+http://origin.pl.www4.volkswagen.de/apps/vwd4_base/docroot0244104035/frontend/js/app/app.documentready.min.js
+http://origin.pl.www4.volkswagen.de/apps/vwd4_base/docroot0244104035/frontend/js/app/app.project.min.js
+http://origin.pl.www4.volkswagen.de/apps/vwd4_base/docroot0244104035/frontend/js/app/app.project.text.min.js
+http://origin.pl.www4.volkswagen.de/apps/vwd4_base/docroot0244104035/frontend/js/global/devicematch/vwd4.devicematch.min.js
+http://origin.pl.www4.volkswagen.de/apps/vwd4_base/docroot0244104035/frontend/js/iptv/iptv.min.js
+http://origin.pl.www4.volkswagen.de/apps/vwd4_base/docroot0244104035/frontend/js/lib/lib.min.js
+http://origin.pl.www4.volkswagen.de/de_sample/brand/de.js_config.js
+http://origin.pl.www4.volkswagen.de/de_sample/brand/de.usertracking_script.js
+http://origin.pl.www4.volkswagen.de/de_sample/brand/de_vwn.js_config.js
+http://origin.pl.www4.volkswagen.de/de_sample/brand/de_vwn.usertracking_script.js
+http://origin.pl.www4.volkswagen.de/de_sample/brand/en.js_config.js
+http://origin.pl.www4.volkswagen.de/de_sample/brand/en.usertracking_script.js
+http://origin.pl.www4.volkswagen.de/de_sample/brand/en_usa.js_config.js
+http://origin.pl.www4.volkswagen.de/de_sample/brand/en_usa.usertracking_script.js

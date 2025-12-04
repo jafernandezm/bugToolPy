@@ -1,0 +1,8 @@
+https://correspondencia.fiscalia.gob.bo
+https://correspondencia.fiscalia.gob.bo/assets/flags/flags.css?v=3
+https://correspondencia.fiscalia.gob.bo/assets/index.3e7fc205.js
+https://correspondencia.fiscalia.gob.bo/assets/index.717b5027.css
+https://correspondencia.fiscalia.gob.bo/assets/layout/css/layout-light.css?v=3
+https://correspondencia.fiscalia.gob.bo/assets/theme/orange/theme-light.css?v=3
+https://correspondencia.fiscalia.gob.bo/assets/vendor.0497ec2d.js
+https://correspondencia.fiscalia.gob.bo/assets/vendor.2b2b9d1c.css

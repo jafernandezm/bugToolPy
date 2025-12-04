@@ -1,0 +1,2 @@
+https://karriere.volkswagen.de/sap/bc/bsp/sap/zvw_hcmx_ui_ext/desktop/sap/erecruiting/view/components/search/KeywordFilterComponent.controller.js
+https://karriere.volkswagen.de/sap/bc/bsp/sap/zvw_hcmx_ui_ext/desktop/sap/erecruiting/view/components/search/keywordfiltercomponent.view.xml

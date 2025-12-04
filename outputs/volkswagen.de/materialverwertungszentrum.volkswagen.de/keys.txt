@@ -1,0 +1,4 @@
+https://materialverwertungszentrum.volkswagen.de/gmb/passwordResetRequest/getCaptcha
+https://materialverwertungszentrum.volkswagen.de/gmb/passwordResetRequest/show
+https://materialverwertungszentrum.volkswagen.de/gmb/public/passwordResetRequest/show
+https://materialverwertungszentrum.volkswagen.de/gmb/servlet/controller?action=PasswordResetRequestAction

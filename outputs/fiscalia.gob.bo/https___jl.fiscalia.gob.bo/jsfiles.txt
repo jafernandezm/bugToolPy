@@ -1,0 +1,16 @@
+https://jl.fiscalia.gob.bo/assets/index-Dmy6R_kw.js
+https://jl.fiscalia.gob.bo/assets/vendor-Bm8bonbd.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/bootstrap.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/jquery-3.1.1.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/datapicker/bootstrap-datepicker.es.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/datapicker/bootstrap-datepicker.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/dropzone/dropzone.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/iCheck/icheck.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/jasny/jasny-bootstrap.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/select2/es.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/select2/select2.full.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/sweetalert/sweetalert.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/toastr/toastr.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/validate/jquery.validate.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/validate/messages_es.js
+https://jl.fiscalia.gob.bo/js/app.js?v=00049

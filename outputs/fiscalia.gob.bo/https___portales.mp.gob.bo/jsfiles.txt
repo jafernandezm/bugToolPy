@@ -1,0 +1,17 @@
+https://portales.mp.gob.bo/assets/EdictosPage-3f1f9f85.js
+https://portales.mp.gob.bo/assets/FgeLoadingComponent-03285aad.js
+https://portales.mp.gob.bo/assets/LogoApp-9e5acc31.js
+https://portales.mp.gob.bo/assets/PdfIcon-f9a8289a.js
+https://portales.mp.gob.bo/assets/asset-404-84267abc.js
+https://portales.mp.gob.bo/assets/dataview.esm-cbcfdb21.js
+https://portales.mp.gob.bo/assets/divider.esm-4da72aba.js
+https://portales.mp.gob.bo/assets/empty.layout-d801eba5.js
+https://portales.mp.gob.bo/assets/footer.component-a43ec535.js
+https://portales.mp.gob.bo/assets/footer.component.vue_vue_type_script_setup_true_lang-0b74af71.js
+https://portales.mp.gob.bo/assets/header.component-96855247.js
+https://portales.mp.gob.bo/assets/image.helper-1da238a4.js
+https://portales.mp.gob.bo/assets/index-b4de8e5a.js
+https://portales.mp.gob.bo/assets/logo-2a6d5e8f.js
+https://portales.mp.gob.bo/assets/not-found.view-111636fc.js
+https://portales.mp.gob.bo/assets/useCatalogoWithSidebar-7627fa95.js
+https://portales.mp.gob.bo/assets/web.layout-b944ad6a.js

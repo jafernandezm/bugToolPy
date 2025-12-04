@@ -1,0 +1,2 @@
+http://dev-wpos.datec.com.bo/
+https://dev-wpos.datec.com.bo

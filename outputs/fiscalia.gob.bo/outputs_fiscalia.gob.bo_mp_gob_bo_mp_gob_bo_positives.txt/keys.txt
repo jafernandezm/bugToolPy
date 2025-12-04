@@ -1,0 +1,4 @@
+https://jl2-disciplinario-api.stage.mp.gob.bo
+https://jl2-victimas-api.mp.gob.bo
+https://jl2-victimas-api.stage.mp.gob.bo
+https://rrhh-api.stage.mp.gob.bo

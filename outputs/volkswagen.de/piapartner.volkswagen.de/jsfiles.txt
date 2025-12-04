@@ -1,0 +1,7 @@
+https://piapartner.volkswagen.de/etc.clientlibs/clientlibs/granite/jquery.min.8e23e5ad8c1b5c588cca8d71df0aef0b.js
+https://piapartner.volkswagen.de/etc.clientlibs/clientlibs/granite/jquery/granite.min.d9075d4175ab7b0e3ccf4305a4089645.js
+https://piapartner.volkswagen.de/etc.clientlibs/clientlibs/granite/utils.min.308082b4c347f4fec37ffef277d39d0e.js
+https://piapartner.volkswagen.de/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js
+https://piapartner.volkswagen.de/etc.clientlibs/foundation/clientlibs/shared.min.d8eee0685f08a5253a1d753a2619a08f.js
+https://piapartner.volkswagen.de/etc.clientlibs/settings/wcm/designs/vw-pia/clientlib-site/pia.base.apps.min.54f209c6ec4559ee830e00f699c667ad.js
+https://piapartner.volkswagen.de/etc.clientlibs/settings/wcm/designs/vw-pia/clientlib-site/pia.base.setup.min.77dd54bb8a0ee7a1777e7e04dc1be7e3.js

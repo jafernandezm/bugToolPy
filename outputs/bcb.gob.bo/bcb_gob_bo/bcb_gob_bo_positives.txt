@@ -1,0 +1,80 @@
+http://108.138.0.0/16 (Netblock) --> contains --> 108.138.246.41 (IPAddress)
+http://108.138.0.0/16 (Netblock) --> contains --> 108.138.246.5 (IPAddress)
+http://108.138.0.0/16 (Netblock) --> contains --> 108.138.246.79 (IPAddress)
+http://108.138.0.0/16 (Netblock) --> contains --> 108.138.246.82 (IPAddress)
+http://108.156.84.0/23 (Netblock) --> contains --> 108.156.85.112 (IPAddress)
+http://108.156.84.0/23 (Netblock) --> contains --> 108.156.85.12 (IPAddress)
+http://108.156.84.0/23 (Netblock) --> contains --> 108.156.85.128 (IPAddress)
+http://108.156.84.0/23 (Netblock) --> contains --> 108.156.85.4 (IPAddress)
+http://108.157.224.0/21 (Netblock) --> contains --> 108.157.229.120 (IPAddress)
+http://108.157.224.0/21 (Netblock) --> contains --> 108.157.229.126 (IPAddress)
+http://108.157.224.0/21 (Netblock) --> contains --> 108.157.229.3 (IPAddress)
+http://108.157.224.0/21 (Netblock) --> contains --> 108.157.229.31 (IPAddress)
+http://13.226.48.0/21 (Netblock) --> contains --> 13.226.52.107 (IPAddress)
+http://13.226.48.0/21 (Netblock) --> contains --> 13.226.52.34 (IPAddress)
+http://13.226.48.0/21 (Netblock) --> contains --> 13.226.52.36 (IPAddress)
+http://13.226.48.0/21 (Netblock) --> contains --> 13.226.52.45 (IPAddress)
+http://13.32.80.0/21 (Netblock) --> contains --> 13.32.87.13 (IPAddress)
+http://13.32.80.0/21 (Netblock) --> contains --> 13.32.87.26 (IPAddress)
+http://13.32.80.0/21 (Netblock) --> contains --> 13.32.87.31 (IPAddress)
+http://13.32.80.0/21 (Netblock) --> contains --> 13.32.87.80 (IPAddress)
+http://18.239.224.0/22 (Netblock) --> contains --> 18.239.225.104 (IPAddress)
+http://18.239.224.0/22 (Netblock) --> contains --> 18.239.225.13 (IPAddress)
+http://18.239.224.0/22 (Netblock) --> contains --> 18.239.225.84 (IPAddress)
+http://18.239.224.0/22 (Netblock) --> contains --> 18.239.225.93 (IPAddress)
+http://18.244.16.0/21 (Netblock) --> contains --> 18.244.18.124 (IPAddress)
+http://18.244.16.0/21 (Netblock) --> contains --> 18.244.18.15 (IPAddress)
+http://18.244.16.0/21 (Netblock) --> contains --> 18.244.18.27 (IPAddress)
+http://18.244.16.0/21 (Netblock) --> contains --> 18.244.18.81 (IPAddress)
+http://3.166.160.0/21 (Netblock) --> contains --> 3.166.160.22 (IPAddress)
+http://3.166.160.0/21 (Netblock) --> contains --> 3.166.160.30 (IPAddress)
+http://3.166.160.0/21 (Netblock) --> contains --> 3.166.160.53 (IPAddress)
+http://3.166.160.0/21 (Netblock) --> contains --> 3.166.160.92 (IPAddress)
+http://3.166.176.0/21 (Netblock) --> contains --> 3.166.181.109 (IPAddress)
+http://3.166.176.0/21 (Netblock) --> contains --> 3.166.181.111 (IPAddress)
+http://3.166.176.0/21 (Netblock) --> contains --> 3.166.181.18 (IPAddress)
+http://3.166.176.0/21 (Netblock) --> contains --> 3.166.181.93 (IPAddress)
+http://52.85.72.0/21 (Netblock) --> contains --> 52.85.78.111 (IPAddress)
+http://52.85.72.0/21 (Netblock) --> contains --> 52.85.78.117 (IPAddress)
+http://52.85.72.0/21 (Netblock) --> contains --> 52.85.78.43 (IPAddress)
+http://52.85.72.0/21 (Netblock) --> contains --> 52.85.78.53 (IPAddress)
+http://52.85.72.0/21 (Netblock) --> contains --> 52.85.78.7 (IPAddress)
+http://52.85.72.0/21 (Netblock) --> contains --> 52.85.78.72 (IPAddress)
+http://52.85.72.0/21 (Netblock) --> contains --> 52.85.78.87 (IPAddress)
+http://52.85.72.0/21 (Netblock) --> contains --> 52.85.78.94 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.10 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.109 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.118 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.127 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.22 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.28 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.3 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.34 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.56 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.6 (IPAddress)
+http://54.240.184.0/24 (Netblock) --> contains --> 54.240.184.98 (IPAddress)
+http://65.9.46.0/24 (Netblock) --> contains --> 65.9.46.112 (IPAddress)
+http://65.9.46.0/24 (Netblock) --> contains --> 65.9.46.2 (IPAddress)
+http://65.9.46.0/24 (Netblock) --> contains --> 65.9.46.83 (IPAddress)
+http://65.9.46.0/24 (Netblock) --> contains --> 65.9.46.95 (IPAddress)
+http://99.84.248.0/21 (Netblock) --> contains --> 99.84.252.111 (IPAddress)
+http://99.84.248.0/21 (Netblock) --> contains --> 99.84.252.124 (IPAddress)
+http://99.84.248.0/21 (Netblock) --> contains --> 99.84.252.25 (IPAddress)
+http://99.84.248.0/21 (Netblock) --> contains --> 99.84.252.9 (IPAddress)
+http://deudaexternapublica.bcb.gob.bo
+https://app.bcb.gob.bo
+https://aulavirtual.bcb.gob.bo
+https://bcbeduca.bcb.gob.bo
+https://biblioteca.bcb.gob.bo
+https://bibliotecadigital.bcb.gob.bo
+https://bonos.bcb.gob.bo
+https://eeb.bcb.gob.bo
+https://jornadamonetaria.bcb.gob.bo
+https://nube.bcb.gob.bo
+https://simuladoratm-bcbeduca.bcb.gob.bo
+https://simuladorqr-bcbeduca.bcb.gob.bo
+https://solicituddeatencion.bcb.gob.bo
+https://vpnc3.bcb.gob.bo
+https://vpncont.bcb.gob.bo
+https://vpnext.bcb.gob.bo
+https://www.bcb.gob.bo

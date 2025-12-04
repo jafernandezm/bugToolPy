@@ -1,0 +1,11 @@
+https://api.sandbox.directly.com
+https://app.sandbox.directly.com
+https://apple-demo.sandbox.directly.com
+https://area-51.sandbox.directly.com
+https://assets.sandbox.directly.com
+https://autodesk-sandbox.sandbox.directly.com
+https://developer.sandbox.directly.com
+https://eapps.sandbox.directly.com
+https://office.sandbox.directly.com
+https://sandbox.directly.com
+https://static.sandbox.directly.com

@@ -1,0 +1,2 @@
+https://correo.fiscalia.gob.bo/;jsessionid=nmdtzx196cqn1qgrvy2qzjmkh?loginOp=relogin&client=socialfox&loginErrorCode=service.AUTH_REQUIRED
+https://correo.fiscalia.gob.bo/;jsessionid=rzxrfr563x2gp13axxbizp1f?loginOp=relogin&client=socialfox&loginErrorCode=service.AUTH_REQUIRED

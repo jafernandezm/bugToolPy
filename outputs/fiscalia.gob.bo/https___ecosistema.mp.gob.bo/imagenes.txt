@@ -1,0 +1,9 @@
+https://ecosistema.mp.gob.bo/assets/assets/fonts/assets/bicentenario.svg
+https://ecosistema.mp.gob.bo/assets/assets/fonts/assets/escudo.png
+https://ecosistema.mp.gob.bo/assets/assets/fonts/assets/favicon.svg
+https://ecosistema.mp.gob.bo/assets/assets/fonts/assets/ibnorca.png
+https://ecosistema.mp.gob.bo/assets/bicentenario.svg
+https://ecosistema.mp.gob.bo/assets/escudo.png
+https://ecosistema.mp.gob.bo/assets/favicon.svg
+https://ecosistema.mp.gob.bo/assets/ibnorca.png
+https://ecosistema.mp.gob.bo/assets/roma2.png

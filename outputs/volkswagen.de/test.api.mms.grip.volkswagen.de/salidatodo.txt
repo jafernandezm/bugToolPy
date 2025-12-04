@@ -1,0 +1,2 @@
+https://test.api.mms.grip.volkswagen.de
+https://test.api.mms.grip.volkswagen.de/

@@ -1,0 +1,9 @@
+http://dadoopreprd.datec.com.bo/web
+http://dadoopreprd.datec.com.bo/web/login
+https://dadoopreprd.datec.com.bo
+https://dadoopreprd.datec.com.bo/web
+https://dadoopreprd.datec.com.bo/web/assets/15-3c9896c/web.assets_frontend.min.css
+https://dadoopreprd.datec.com.bo/web/assets/16-82c8452/web.assets_frontend_minimal.min.js
+https://dadoopreprd.datec.com.bo/web/binary/company_logo
+https://dadoopreprd.datec.com.bo/web/database/manager
+https://dadoopreprd.datec.com.bo/web/login

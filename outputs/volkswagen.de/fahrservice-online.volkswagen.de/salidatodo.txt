@@ -1,0 +1,6 @@
+https://fahrservice-online.volkswagen.de
+https://fahrservice-online.volkswagen.de/
+https://fahrservice-online.volkswagen.de/my.logout.php3?errorcode=19
+https://fahrservice-online.volkswagen.de/my.policy
+https://fahrservice-online.volkswagen.de/public/include/js/common.js
+https://fahrservice-online.volkswagen.de/public/include/js/u_plugin.js

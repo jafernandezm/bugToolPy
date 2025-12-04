@@ -1,0 +1,2 @@
+http://mobileservices.volkswagen.de:80/0_mobilizer/x_code/code.js
+http://mobileservices.volkswagen.de:80/0_mobilizer/x_code/ticker.JS

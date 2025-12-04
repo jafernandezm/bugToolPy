@@ -1,0 +1,8 @@
+http://fw-fge.mp.gob.bo/
+https://fw-fge.mp.gob.bo
+https://fw-fge.mp.gob.bo/
+https://fw-fge.mp.gob.bo/favicon/site.webmanifest
+https://fw-fge.mp.gob.bo/static/main.js
+https://fw-fge.mp.gob.bo/static/polyfills.js
+https://fw-fge.mp.gob.bo/static/runtime.js
+https://fw-fge.mp.gob.bo/static/styles.css

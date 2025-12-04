@@ -1,0 +1,2 @@
+http://ms-seguridad-v1.stage.mp.gob.bo/
+https://ms-seguridad-v1.stage.mp.gob.bo

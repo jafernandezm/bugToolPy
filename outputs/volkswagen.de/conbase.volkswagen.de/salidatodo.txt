@@ -1,0 +1,4 @@
+https://conbase.volkswagen.de
+https://conbase.volkswagen.de/
+https://conbase.volkswagen.de/localdocs/extra/samlsso.js
+https://conbase.volkswagen.de/localdocs/styles/themes/volkswagenag/main.css

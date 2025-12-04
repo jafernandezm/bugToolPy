@@ -1,0 +1,4 @@
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/images/pki.png
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/images/ui-icons_4c5356_256x240.png?ln=primefaces-vwag&v=14.0.12&e=14.0.12
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/token.png?ln=images
+https://lso-qsi.volkswagen.de/lona/public/jakarta.faces.resource/vwag_logo.gif?ln=images

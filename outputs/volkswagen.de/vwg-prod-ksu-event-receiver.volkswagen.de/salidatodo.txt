@@ -1,0 +1,2 @@
+https://vwg-prod-ksu-event-receiver.volkswagen.de
+https://vwg-prod-ksu-event-receiver.volkswagen.de/

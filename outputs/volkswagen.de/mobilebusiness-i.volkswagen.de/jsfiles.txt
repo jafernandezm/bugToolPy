@@ -1,0 +1,2 @@
+https://mobilebusiness-i.volkswagen.de/public/include/js/common.js
+https://mobilebusiness-i.volkswagen.de/public/include/js/u_plugin.js

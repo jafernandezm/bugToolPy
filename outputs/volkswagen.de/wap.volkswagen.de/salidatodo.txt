@@ -1,0 +1,5 @@
+http://wap.volkswagen.de:80/
+http://wap.volkswagen.de:80/0_mobilizer/0_index/
+http://wap.volkswagen.de:80/robots.txt
+http://wap.volkswagen.de:80/vwmmsp/mobile/index.wml
+https://wap.volkswagen.de

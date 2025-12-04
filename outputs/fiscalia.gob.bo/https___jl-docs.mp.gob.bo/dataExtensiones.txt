@@ -1,0 +1,2 @@
+https://jl-docs.mp.gob.bo/blog/atom.xml
+https://jl-docs.mp.gob.bo/blog/rss.xml

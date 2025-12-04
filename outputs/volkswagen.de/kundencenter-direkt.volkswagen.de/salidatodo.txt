@@ -1,0 +1,7 @@
+https://kundencenter-direkt.volkswagen.de
+https://kundencenter-direkt.volkswagen.de/
+https://kundencenter-direkt.volkswagen.de/kcdirekt/priv/KC.ContentAction.start.do?ut=1718293157137
+https://kundencenter-direkt.volkswagen.de/my.logout.php3?errorcode=19
+https://kundencenter-direkt.volkswagen.de/my.policy
+https://kundencenter-direkt.volkswagen.de/public/include/js/common.js
+https://kundencenter-direkt.volkswagen.de/public/include/js/u_plugin.js

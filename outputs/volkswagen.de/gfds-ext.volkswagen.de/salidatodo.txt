@@ -1,0 +1,7 @@
+http://gfds-ext.volkswagen.de/
+https://gfds-ext.volkswagen.de
+https://gfds-ext.volkswagen.de/
+https://gfds-ext.volkswagen.de/my.logout.php3?errorcode=19
+https://gfds-ext.volkswagen.de/my.policy
+https://gfds-ext.volkswagen.de/public/include/js/common.js
+https://gfds-ext.volkswagen.de/public/include/js/u_plugin.js

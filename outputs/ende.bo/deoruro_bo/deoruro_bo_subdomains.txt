@@ -1,0 +1,36 @@
+0 (ASN) --> announces --> 10.0.0.0/8 (Netblock)
+0 (ASN) --> managed_by --> Reserved Network Address Blocks (RIROrganization)
+10.0.0.0/8 (Netblock) --> contains --> 10.233.11.33 (IPAddress)
+186.121.192.0/20 (Netblock) --> contains --> 186.121.205.163 (IPAddress)
+26210 (ASN) --> announces --> 186.121.192.0/20 (Netblock)
+26210 (ASN) --> managed_by --> AXS Bolivia S. A. (RIROrganization)
+agc.deoruro.bo
+cloud.deoruro.bo
+comunidad.deoruro.bo
+correo.deoruro.bo
+correo.endesyc.bo (FQDN) --> a_record --> 186.121.205.163 (IPAddress)
+correspondencia.endesyc.bo (FQDN) --> a_record --> 10.233.11.33 (IPAddress)
+deoruro.bo
+deoruro.bo (FQDN) --> ns_record --> ns0.deoruro.bo (FQDN)
+endesyc.bo (FQDN) --> a_record --> 104.21.75.162 (IPAddress)
+endesyc.bo (FQDN) --> a_record --> 172.67.178.188 (IPAddress)
+endesyc.bo (FQDN) --> aaaa_record --> 2606:4700:3030::ac43:b2bc (IPAddress)
+endesyc.bo (FQDN) --> aaaa_record --> 2606:4700:3034::6815:4ba2 (IPAddress)
+endesyc.bo (FQDN) --> mx_record --> mail.scbbs.net (FQDN)
+endesyc.bo (FQDN) --> ns_record --> bart.ns.cloudflare.com (FQDN)
+endesyc.bo (FQDN) --> ns_record --> cecelia.ns.cloudflare.com (FQDN)
+gis-srv.deoruro.bo
+ns0.deoruro.bo
+ns1.deoruro.bo
+ns1.endesyc.bo (FQDN) --> a_record --> 104.21.75.162 (IPAddress)
+ns1.endesyc.bo (FQDN) --> a_record --> 172.67.178.188 (IPAddress)
+ns1.endesyc.bo (FQDN) --> aaaa_record --> 2606:4700:3030::ac43:b2bc (IPAddress)
+ns1.endesyc.bo (FQDN) --> aaaa_record --> 2606:4700:3034::6815:4ba2 (IPAddress)
+ns2.deoruro.bo
+ns3.deoruro.bo
+ns4.deoruro.bo
+prueba.deoruro.bo
+srvmobctr.deoruro.bo
+www.correo.deoruro.bo
+www.deoruro.bo
+www.gis-srv.deoruro.bo

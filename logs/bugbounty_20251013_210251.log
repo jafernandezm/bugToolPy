@@ -1,0 +1,53 @@
+2025-10-13 21:02:51,162 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-13 21:02:51,163 - be.manager - INFO - Objetivos cargados: 2
+2025-10-13 21:02:51,163 - be.manager - INFO - [+] Iniciando en modo Reconocimiento...
+2025-10-13 21:02:51,163 - be.manager - INFO - 💾 Resultados para gestora.bo se guardarán en: outputs/pruebas/gestora_bo
+2025-10-13 21:02:51,163 - be.manager - INFO - 
+=======================================================
+2025-10-13 21:02:51,163 - be.manager - INFO - 🎯 Iniciando escaneo para el objetivo: gestora.bo
+2025-10-13 21:02:51,163 - be.modules.recon - INFO -    [Recon] Iniciando Reconocimiento Pasivo...
+2025-10-13 21:02:51,163 - be.modules.recon - INFO -    [Subdominator] Ejecutando: /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator
+2025-10-13 21:03:21,192 - be.modules.utils.helpers - WARNING - Comando excedió el tiempo límite (30s): /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator -d gestora.bo
+2025-10-13 21:03:21,192 - be.modules.recon - ERROR -    [Subdominator] ❌ Error al ejecutar o parsear: Timeout en herramienta externa
+2025-10-13 21:03:21,193 - be.modules.recon - INFO -    [Subfinder] Ejecutando: subfinder
+2025-10-13 21:03:52,098 - be.modules.recon - INFO -    [Subfinder] Encontrados 35 subdominios pasivos.
+2025-10-13 21:03:52,098 - be.modules.recon - INFO -    [Amass] Ejecutando: amass (Timeout Amass: 90s)
+2025-10-13 21:05:32,127 - be.modules.utils.helpers - WARNING - Comando excedió el tiempo límite (100s): amass enum -passive -d gestora.bo -timeout 90
+2025-10-13 21:05:32,127 - be.modules.recon - ERROR -    [Amass] ❌ Error al ejecutar o parsear: Timeout en herramienta externa
+2025-10-13 21:05:32,128 - be.modules.recon - INFO -    [Urlscan] Consultando urlscan.io (Timeout: 90s)...
+2025-10-13 21:05:33,294 - be.modules.recon - INFO -    [Urlscan] Encontrados 5 subdominios vía API.
+2025-10-13 21:05:33,296 - be.modules.recon - INFO -    [Crt.sh] Consultando crt.sh (Timeout: 90s)...
+2025-10-13 21:06:05,283 - be.modules.recon - INFO -    [Crt.sh] Encontrados 19 subdominios vía Certificados.
+2025-10-13 21:06:05,286 - be.modules.recon - INFO -    [Recon] Se filtraron 1 subdominios con wildcards para evitar errores.
+2025-10-13 21:06:05,287 - be.modules.recon - INFO -    [Recon] Total de subdominios únicos y válidos encontrados: 36
+2025-10-13 21:06:05,287 - be.modules.recon - INFO -    [Recon] Subdominios válidos guardados en outputs/pruebas/gestora_bo/gestora_bo_subdomains.txt y outputs/pruebas/gestora_bo/gestora_bo_subdomains.json
+2025-10-13 21:06:05,287 - be.manager - INFO -   [+] Ejecutando Módulo PROBING sobre 36 hosts...
+2025-10-13 21:06:05,287 - be.modules.probing - INFO -    [Probing] Iniciando sondeo (LIGHT) de 36 objetivos...
+2025-10-13 21:06:05,287 - be.modules.probing - INFO -    [Httpx] Se ha calculado un timeout total de 300s para 36 subdominios.
+2025-10-13 21:07:40,775 - be.modules.probing - INFO -    [Probing] Resultados finales guardados en: outputs/pruebas/gestora_bo
+2025-10-13 21:07:40,775 - be.manager - INFO - ✅ Escaneo finalizado para: gestora.bo
+2025-10-13 21:07:40,776 - be.manager - INFO - 💾 Resultados para minsalud.gob.bo se guardarán en: outputs/pruebas/minsalud_gob_bo
+2025-10-13 21:07:40,776 - be.manager - INFO - 
+=======================================================
+2025-10-13 21:07:40,776 - be.manager - INFO - 🎯 Iniciando escaneo para el objetivo: minsalud.gob.bo
+2025-10-13 21:07:40,776 - be.modules.recon - INFO -    [Recon] Iniciando Reconocimiento Pasivo...
+2025-10-13 21:07:40,776 - be.modules.recon - INFO -    [Subdominator] Ejecutando: /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator
+2025-10-13 21:08:10,807 - be.modules.utils.helpers - WARNING - Comando excedió el tiempo límite (30s): /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator -d minsalud.gob.bo
+2025-10-13 21:08:10,807 - be.modules.recon - ERROR -    [Subdominator] ❌ Error al ejecutar o parsear: Timeout en herramienta externa
+2025-10-13 21:08:10,807 - be.modules.recon - INFO -    [Subfinder] Ejecutando: subfinder
+2025-10-13 21:08:41,794 - be.modules.recon - INFO -    [Subfinder] Encontrados 111 subdominios pasivos.
+2025-10-13 21:08:41,794 - be.modules.recon - INFO -    [Amass] Ejecutando: amass (Timeout Amass: 90s)
+2025-10-13 21:10:21,824 - be.modules.utils.helpers - WARNING - Comando excedió el tiempo límite (100s): amass enum -passive -d minsalud.gob.bo -timeout 90
+2025-10-13 21:10:21,825 - be.modules.recon - ERROR -    [Amass] ❌ Error al ejecutar o parsear: Timeout en herramienta externa
+2025-10-13 21:10:21,825 - be.modules.recon - INFO -    [Urlscan] Consultando urlscan.io (Timeout: 90s)...
+2025-10-13 21:10:23,140 - be.modules.recon - INFO -    [Urlscan] Encontrados 12 subdominios vía API.
+2025-10-13 21:10:23,142 - be.modules.recon - INFO -    [Crt.sh] Consultando crt.sh (Timeout: 90s)...
+2025-10-13 21:10:27,040 - be.modules.recon - INFO -    [Crt.sh] Encontrados 21 subdominios vía Certificados.
+2025-10-13 21:10:27,044 - be.modules.recon - INFO -    [Recon] Se filtraron 3 subdominios con wildcards para evitar errores.
+2025-10-13 21:10:27,044 - be.modules.recon - INFO -    [Recon] Total de subdominios únicos y válidos encontrados: 114
+2025-10-13 21:10:27,045 - be.modules.recon - INFO -    [Recon] Subdominios válidos guardados en outputs/pruebas/minsalud_gob_bo/minsalud_gob_bo_subdomains.txt y outputs/pruebas/minsalud_gob_bo/minsalud_gob_bo_subdomains.json
+2025-10-13 21:10:27,046 - be.manager - INFO -   [+] Ejecutando Módulo PROBING sobre 114 hosts...
+2025-10-13 21:10:27,046 - be.modules.probing - INFO -    [Probing] Iniciando sondeo (LIGHT) de 114 objetivos...
+2025-10-13 21:10:27,046 - be.modules.probing - INFO -    [Httpx] Se ha calculado un timeout total de 570s para 114 subdominios.
+2025-10-13 21:17:43,583 - be.modules.probing - INFO -    [Probing] Resultados finales guardados en: outputs/pruebas/minsalud_gob_bo
+2025-10-13 21:17:43,583 - be.manager - INFO - ✅ Escaneo finalizado para: minsalud.gob.bo

@@ -1,0 +1,3 @@
+https://kundencenter.volkswagen.de/img/icon-sprite.png
+https://kundencenter.volkswagen.de/skin/images/legal.jpg
+https://kundencenter.volkswagen.de/skin/images/vw-logo-db.svg

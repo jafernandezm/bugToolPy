@@ -1,0 +1,2 @@
+https://vwg-prod-ksu-web-api.volkswagen.de
+https://vwg-prod-ksu-web-api.volkswagen.de/

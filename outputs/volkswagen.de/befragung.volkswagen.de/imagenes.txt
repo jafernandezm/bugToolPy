@@ -1,0 +1,3 @@
+https://befragung.volkswagen.de/evasys/images/icons/logo_waca.png
+https://befragung.volkswagen.de/evasys/images/ui/login_online.png
+https://befragung.volkswagen.de/evasys/public/data/images/logos/organization/custom_logo.jpg

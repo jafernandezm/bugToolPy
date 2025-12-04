@@ -1,0 +1,3 @@
+https://fw-fge.mp.gob.bo/static/main.js
+https://fw-fge.mp.gob.bo/static/polyfills.js
+https://fw-fge.mp.gob.bo/static/runtime.js

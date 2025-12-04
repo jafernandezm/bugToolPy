@@ -1,0 +1,10 @@
+http://certdist.volkswagen.de:80/robots.txt
+https://certdist.volkswagen.de/.well-known/ai-plugin.json
+https://certdist.volkswagen.de/.well-known/assetlinks.json
+https://certdist.volkswagen.de/.well-known/dnt-policy.txt
+https://certdist.volkswagen.de/.well-known/gpc.json
+https://certdist.volkswagen.de/.well-known/security.txt
+https://certdist.volkswagen.de/.well-known/trust.txt
+https://certdist.volkswagen.de/ads.txt
+https://certdist.volkswagen.de/app-ads.txt
+https://certdist.volkswagen.de/sitemap.xml

@@ -1,0 +1,14 @@
+https://jl-docs.fiscalia.gob.bo/.well-known/ai-plugin.json
+https://jl-docs.fiscalia.gob.bo/.well-known/assetlinks.json
+https://jl-docs.fiscalia.gob.bo/.well-known/dnt-policy.txt
+https://jl-docs.fiscalia.gob.bo/.well-known/gpc.json
+https://jl-docs.fiscalia.gob.bo/.well-known/security.txt
+https://jl-docs.fiscalia.gob.bo/.well-known/trust.txt
+https://jl-docs.fiscalia.gob.bo/ads.txt
+https://jl-docs.fiscalia.gob.bo/app-ads.txt
+https://jl-docs.fiscalia.gob.bo/blog/atom.xml
+https://jl-docs.fiscalia.gob.bo/blog/rss.xml
+https://jl-docs.fiscalia.gob.bo/lunr-index-1641866820487.json
+https://jl-docs.fiscalia.gob.bo/robots.txt
+https://jl-docs.fiscalia.gob.bo/search-doc-1641866820487.json
+https://jl-docs.fiscalia.gob.bo/sitemap.xml

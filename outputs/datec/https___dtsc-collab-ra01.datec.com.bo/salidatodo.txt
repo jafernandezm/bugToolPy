@@ -1,0 +1,5 @@
+https://dtsc-collab-ra01.datec.com.bo
+https://dtsc-collab-ra01.datec.com.bo/
+https://dtsc-collab-ra01.datec.com.bo/inc/tt_login.css?etag=3194-1580733549
+https://dtsc-collab-ra01.datec.com.bo/login
+https://dtsc-collab-ra01.datec.com.bo/login.php

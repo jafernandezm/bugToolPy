@@ -1,0 +1,3 @@
+https://developer.earthdata.nasa.gov/cmr/api/docs
+https://developer.earthdata.nasa.gov/gibs/gibs-api-for-developers
+https://developer.earthdata.nasa.gov/urs/urs-integration/working-with-the-earthdata-login-api/api-documentation

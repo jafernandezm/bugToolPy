@@ -1,0 +1,3 @@
+http://gis.uat.earthdata.nasa.gov
+http://gis.uat.earthdata.nasa.gov/
+https://gis.uat.earthdata.nasa.gov/

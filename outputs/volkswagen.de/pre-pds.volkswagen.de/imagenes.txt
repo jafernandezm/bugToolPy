@@ -1,0 +1,6 @@
+https://pre-pds.volkswagen.de/vwpds-admin/gxt/images/default/s.gif
+https://pre-pds.volkswagen.de/vwpds-admin/gxt/images/default/shared/large-loading.gif
+https://pre-pds.volkswagen.de/vwpds-admin/images/bg_main.png
+https://pre-pds.volkswagen.de/vwpds-admin/images/client/volkswagen/footer.png
+https://pre-pds.volkswagen.de/vwpds-admin/images/client/volkswagen/logo.png
+https://pre-pds.volkswagen.de/vwpds-admin/images/client/volkswagen/title.png

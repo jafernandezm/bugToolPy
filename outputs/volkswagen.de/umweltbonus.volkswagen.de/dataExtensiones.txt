@@ -1,0 +1,3 @@
+http://umweltbonus.volkswagen.de/robots.txt
+http://umweltbonus.volkswagen.de:80/assets/pdf/VWFS_Broschuere_Ergaenzungsmobilitaet.pdf
+http://umweltbonus.volkswagen.de:80/assets/pdf/VWFS_Charge_Fuel_Card.pdf

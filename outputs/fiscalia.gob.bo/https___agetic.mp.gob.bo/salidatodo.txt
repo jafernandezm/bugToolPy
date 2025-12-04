@@ -1,0 +1,5 @@
+http://agetic.mp.gob.bo/
+https://agetic.mp.gob.bo
+https://agetic.mp.gob.bo/css/app.4db991ab.css
+https://agetic.mp.gob.bo/js/app.9acc1516.js
+https://agetic.mp.gob.bo/js/chunk-vendors.4b352e60.js

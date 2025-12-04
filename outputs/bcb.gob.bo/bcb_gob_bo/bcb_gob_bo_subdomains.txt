@@ -1,0 +1,272 @@
+0 (ASN) --> announces --> 108.138.0.0/16 (Netblock)
+0 (ASN) --> managed_by --> Not routed (RIROrganization)
+108.138.0.0/16 (Netblock) --> contains --> 108.138.246.41 (IPAddress)
+108.138.0.0/16 (Netblock) --> contains --> 108.138.246.5 (IPAddress)
+108.138.0.0/16 (Netblock) --> contains --> 108.138.246.79 (IPAddress)
+108.138.0.0/16 (Netblock) --> contains --> 108.138.246.82 (IPAddress)
+108.156.84.0/23 (Netblock) --> contains --> 108.156.85.112 (IPAddress)
+108.156.84.0/23 (Netblock) --> contains --> 108.156.85.12 (IPAddress)
+108.156.84.0/23 (Netblock) --> contains --> 108.156.85.128 (IPAddress)
+108.156.84.0/23 (Netblock) --> contains --> 108.156.85.4 (IPAddress)
+108.157.224.0/21 (Netblock) --> contains --> 108.157.229.120 (IPAddress)
+108.157.224.0/21 (Netblock) --> contains --> 108.157.229.126 (IPAddress)
+108.157.224.0/21 (Netblock) --> contains --> 108.157.229.3 (IPAddress)
+108.157.224.0/21 (Netblock) --> contains --> 108.157.229.31 (IPAddress)
+13.226.48.0/21 (Netblock) --> contains --> 13.226.52.107 (IPAddress)
+13.226.48.0/21 (Netblock) --> contains --> 13.226.52.34 (IPAddress)
+13.226.48.0/21 (Netblock) --> contains --> 13.226.52.36 (IPAddress)
+13.226.48.0/21 (Netblock) --> contains --> 13.226.52.45 (IPAddress)
+13.32.80.0/21 (Netblock) --> contains --> 13.32.87.13 (IPAddress)
+13.32.80.0/21 (Netblock) --> contains --> 13.32.87.26 (IPAddress)
+13.32.80.0/21 (Netblock) --> contains --> 13.32.87.31 (IPAddress)
+13.32.80.0/21 (Netblock) --> contains --> 13.32.87.80 (IPAddress)
+16509 (ASN) --> announces --> 108.156.84.0/23 (Netblock)
+16509 (ASN) --> announces --> 108.157.224.0/21 (Netblock)
+16509 (ASN) --> announces --> 13.226.48.0/21 (Netblock)
+16509 (ASN) --> announces --> 13.32.80.0/21 (Netblock)
+16509 (ASN) --> announces --> 18.239.224.0/22 (Netblock)
+16509 (ASN) --> announces --> 18.244.16.0/21 (Netblock)
+16509 (ASN) --> announces --> 3.166.160.0/21 (Netblock)
+16509 (ASN) --> announces --> 3.166.176.0/21 (Netblock)
+16509 (ASN) --> announces --> 52.85.72.0/21 (Netblock)
+16509 (ASN) --> announces --> 54.240.184.0/24 (Netblock)
+16509 (ASN) --> announces --> 65.9.46.0/24 (Netblock)
+16509 (ASN) --> announces --> 99.84.248.0/21 (Netblock)
+16509 (ASN) --> managed_by --> AMAZON-02 - Amazon.com, Inc. (RIROrganization)
+18.239.224.0/22 (Netblock) --> contains --> 18.239.225.104 (IPAddress)
+18.239.224.0/22 (Netblock) --> contains --> 18.239.225.13 (IPAddress)
+18.239.224.0/22 (Netblock) --> contains --> 18.239.225.84 (IPAddress)
+18.239.224.0/22 (Netblock) --> contains --> 18.239.225.93 (IPAddress)
+18.244.16.0/21 (Netblock) --> contains --> 18.244.18.124 (IPAddress)
+18.244.16.0/21 (Netblock) --> contains --> 18.244.18.15 (IPAddress)
+18.244.16.0/21 (Netblock) --> contains --> 18.244.18.27 (IPAddress)
+18.244.16.0/21 (Netblock) --> contains --> 18.244.18.81 (IPAddress)
+181.114.96.0/19 (Netblock) --> contains --> 181.114.126.10 (IPAddress)
+181.114.96.0/19 (Netblock) --> contains --> 181.114.126.19 (IPAddress)
+181.114.96.0/19 (Netblock) --> contains --> 181.114.126.25 (IPAddress)
+181.114.96.0/19 (Netblock) --> contains --> 181.114.126.6 (IPAddress)
+186.121.192.0/20 (Netblock) --> contains --> 186.121.206.88 (IPAddress)
+190.129.0.0/17 (Netblock) --> contains --> 190.129.70.22 (IPAddress)
+190.129.0.0/17 (Netblock) --> contains --> 190.129.70.23 (IPAddress)
+190.129.0.0/17 (Netblock) --> contains --> 190.129.70.26 (IPAddress)
+200.87.128.0/20 (Netblock) --> contains --> 200.87.133.246 (IPAddress)
+200.87.128.0/20 (Netblock) --> contains --> 200.87.133.250 (IPAddress)
+23.70.129.190.in-addr.arpa (FQDN) --> ptr_record --> mail.bcb.gob.bo (FQDN)
+26.70.129.190.in-addr.arpa (FQDN) --> ptr_record --> mail.bcb.gob.bo (FQDN)
+26210 (ASN) --> announces --> 186.121.192.0/20 (Netblock)
+26210 (ASN) --> managed_by --> AXS Bolivia S. A. (RIROrganization)
+27882 (ASN) --> announces --> 181.114.96.0/19 (Netblock)
+27882 (ASN) --> managed_by --> Telefonica Celular de Bolivia S.A. (RIROrganization)
+3.166.160.0/21 (Netblock) --> contains --> 3.166.160.22 (IPAddress)
+3.166.160.0/21 (Netblock) --> contains --> 3.166.160.30 (IPAddress)
+3.166.160.0/21 (Netblock) --> contains --> 3.166.160.53 (IPAddress)
+3.166.160.0/21 (Netblock) --> contains --> 3.166.160.92 (IPAddress)
+3.166.176.0/21 (Netblock) --> contains --> 3.166.181.109 (IPAddress)
+3.166.176.0/21 (Netblock) --> contains --> 3.166.181.111 (IPAddress)
+3.166.176.0/21 (Netblock) --> contains --> 3.166.181.18 (IPAddress)
+3.166.176.0/21 (Netblock) --> contains --> 3.166.181.93 (IPAddress)
+52.85.72.0/21 (Netblock) --> contains --> 52.85.78.111 (IPAddress)
+52.85.72.0/21 (Netblock) --> contains --> 52.85.78.117 (IPAddress)
+52.85.72.0/21 (Netblock) --> contains --> 52.85.78.43 (IPAddress)
+52.85.72.0/21 (Netblock) --> contains --> 52.85.78.53 (IPAddress)
+52.85.72.0/21 (Netblock) --> contains --> 52.85.78.7 (IPAddress)
+52.85.72.0/21 (Netblock) --> contains --> 52.85.78.72 (IPAddress)
+52.85.72.0/21 (Netblock) --> contains --> 52.85.78.87 (IPAddress)
+52.85.72.0/21 (Netblock) --> contains --> 52.85.78.94 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.10 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.109 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.118 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.127 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.22 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.28 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.3 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.34 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.56 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.6 (IPAddress)
+54.240.184.0/24 (Netblock) --> contains --> 54.240.184.98 (IPAddress)
+65.9.46.0/24 (Netblock) --> contains --> 65.9.46.112 (IPAddress)
+65.9.46.0/24 (Netblock) --> contains --> 65.9.46.2 (IPAddress)
+65.9.46.0/24 (Netblock) --> contains --> 65.9.46.83 (IPAddress)
+65.9.46.0/24 (Netblock) --> contains --> 65.9.46.95 (IPAddress)
+6568 (ASN) --> announces --> 190.129.0.0/17 (Netblock)
+6568 (ASN) --> announces --> 200.87.128.0/20 (Netblock)
+6568 (ASN) --> managed_by --> AS6568 - EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA (RIROrganization)
+6568 (ASN) --> managed_by --> EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA, BO (RIROrganization)
+6568 (ASN) --> managed_by --> Entel S.A. - EntelNet (RIROrganization)
+99.84.248.0/21 (Netblock) --> contains --> 99.84.252.111 (IPAddress)
+99.84.248.0/21 (Netblock) --> contains --> 99.84.252.124 (IPAddress)
+99.84.248.0/21 (Netblock) --> contains --> 99.84.252.25 (IPAddress)
+99.84.248.0/21 (Netblock) --> contains --> 99.84.252.9 (IPAddress)
+aa.bcb.gob.bo
+ac.bcb.gob.bo
+app.bcb.gob.bo
+app.bcb.gob.bo (FQDN) --> cname_record --> appbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.d8806bf123db.i2.checkpoint.com (FQDN)
+appbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.d8806bf123db.i2.checkpoint.com (FQDN) --> cname_record --> d1q0osntsnbgsk.cloudfront.net (FQDN)
+aulavirtual.bcb.gob.bo
+aulavirtual.bcb.gob.bo (FQDN) --> cname_record --> aulavirtualbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.8af8ba68c83b.i2.checkpoint.com (FQDN)
+aulavirtualbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.8af8ba68c83b.i2.checkpoint.com (FQDN) --> cname_record --> d27u62ncwun2rb.cloudfront.net (FQDN)
+autodiscover.bcb.gob.bo
+autodiscover.bcb.gob.bo (FQDN) --> a_record --> 190.129.70.22 (IPAddress)
+bcb.gob.bo
+bcb.gob.bo (FQDN) --> a_record --> 181.114.126.19 (IPAddress)
+bcb.gob.bo (FQDN) --> a_record --> 190.129.70.23 (IPAddress)
+bcb.gob.bo (FQDN) --> mx_record --> mail.bcb.gob.bo (FQDN)
+bcb.gob.bo (FQDN) --> mx_record --> mailsec.bcb.gob.bo (FQDN)
+bcb.gob.bo (FQDN) --> ns_record --> ns.bcb.gob.bo (FQDN)
+bcb.gob.bo (FQDN) --> ns_record --> ns2.bcb.gob.bo (FQDN)
+bcbeduca.bcb.gob.bo
+bcbeduca.bcb.gob.bo (FQDN) --> cname_record --> bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.52d393c3decb.i2.checkpoint.com (FQDN)
+bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.52d393c3decb.i2.checkpoint.com (FQDN) --> cname_record --> dsqklojgjupkp.cloudfront.net (FQDN)
+bcbtramplus.bcb.gob.bo
+biblioteca.bcb.gob.bo
+biblioteca.bcb.gob.bo (FQDN) --> cname_record --> bibliotecabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.6e7a9c448620.i2.checkpoint.com (FQDN)
+bibliotecabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.6e7a9c448620.i2.checkpoint.com (FQDN) --> cname_record --> d2fys99smgo3xx.cloudfront.net (FQDN)
+bibliotecadigital.bcb.gob.bo
+bibliotecadigital.bcb.gob.bo (FQDN) --> cname_record --> bibliotecadigitalbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.d363199f9f0f.i2.checkpoint.com (FQDN)
+bibliotecadigitalbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.d363199f9f0f.i2.checkpoint.com (FQDN) --> cname_record --> d14brj4fbyxp1x.cloudfront.net (FQDN)
+bonos.bcb.gob.bo
+bonos.bcb.gob.bo (FQDN) --> cname_record --> bonosbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.69103692d99e.i2.checkpoint.com (FQDN)
+bonosbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.69103692d99e.i2.checkpoint.com (FQDN) --> cname_record --> dqch7070ku95r.cloudfront.net (FQDN)
+bonosusa.bcb.gob.bo
+calculadoraahorro-bcbeduca.bcb.gob.bo (FQDN) --> cname_record --> calculadoraahorro-bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.54a81cbf445d.i2.checkpoint.com (FQDN)
+calculadoraahorro-bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.54a81cbf445d.i2.checkpoint.com (FQDN) --> cname_record --> d3k6pjpuip6jck.cloudfront.net (FQDN)
+calculadoracredito-bcbeduca.bcb.gob.bo (FQDN) --> cname_record --> calculadoracredito-bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.3b0d1946d655.i2.checkpoint.com (FQDN)
+calculadoracredito-bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.3b0d1946d655.i2.checkpoint.com (FQDN) --> cname_record --> d2sibu5uou7fvi.cloudfront.net (FQDN)
+concursos.bcb.gob.bo
+correo.bcb.gob.bo
+correo.bcb.gob.bo (FQDN) --> a_record --> 200.87.133.246 (IPAddress)
+d14brj4fbyxp1x.cloudfront.net (FQDN) --> a_record --> 54.240.184.10 (IPAddress)
+d14brj4fbyxp1x.cloudfront.net (FQDN) --> a_record --> 54.240.184.22 (IPAddress)
+d14brj4fbyxp1x.cloudfront.net (FQDN) --> a_record --> 54.240.184.6 (IPAddress)
+d14brj4fbyxp1x.cloudfront.net (FQDN) --> a_record --> 54.240.184.98 (IPAddress)
+d1q0osntsnbgsk.cloudfront.net (FQDN) --> a_record --> 99.84.252.111 (IPAddress)
+d1q0osntsnbgsk.cloudfront.net (FQDN) --> a_record --> 99.84.252.124 (IPAddress)
+d1q0osntsnbgsk.cloudfront.net (FQDN) --> a_record --> 99.84.252.25 (IPAddress)
+d1q0osntsnbgsk.cloudfront.net (FQDN) --> a_record --> 99.84.252.9 (IPAddress)
+d1qqgrcw2waamm.cloudfront.net (FQDN) --> a_record --> 108.156.85.112 (IPAddress)
+d1qqgrcw2waamm.cloudfront.net (FQDN) --> a_record --> 108.156.85.12 (IPAddress)
+d1qqgrcw2waamm.cloudfront.net (FQDN) --> a_record --> 108.156.85.128 (IPAddress)
+d1qqgrcw2waamm.cloudfront.net (FQDN) --> a_record --> 108.156.85.4 (IPAddress)
+d27u62ncwun2rb.cloudfront.net (FQDN) --> a_record --> 52.85.78.43 (IPAddress)
+d27u62ncwun2rb.cloudfront.net (FQDN) --> a_record --> 52.85.78.7 (IPAddress)
+d27u62ncwun2rb.cloudfront.net (FQDN) --> a_record --> 52.85.78.72 (IPAddress)
+d27u62ncwun2rb.cloudfront.net (FQDN) --> a_record --> 52.85.78.94 (IPAddress)
+d2bcel9yqlak3k.cloudfront.net (FQDN) --> a_record --> 18.244.18.124 (IPAddress)
+d2bcel9yqlak3k.cloudfront.net (FQDN) --> a_record --> 18.244.18.15 (IPAddress)
+d2bcel9yqlak3k.cloudfront.net (FQDN) --> a_record --> 18.244.18.27 (IPAddress)
+d2bcel9yqlak3k.cloudfront.net (FQDN) --> a_record --> 18.244.18.81 (IPAddress)
+d2fys99smgo3xx.cloudfront.net (FQDN) --> a_record --> 18.239.225.104 (IPAddress)
+d2fys99smgo3xx.cloudfront.net (FQDN) --> a_record --> 18.239.225.13 (IPAddress)
+d2fys99smgo3xx.cloudfront.net (FQDN) --> a_record --> 18.239.225.84 (IPAddress)
+d2fys99smgo3xx.cloudfront.net (FQDN) --> a_record --> 18.239.225.93 (IPAddress)
+d2sibu5uou7fvi.cloudfront.net (FQDN) --> a_record --> 54.240.184.118 (IPAddress)
+d2sibu5uou7fvi.cloudfront.net (FQDN) --> a_record --> 54.240.184.127 (IPAddress)
+d2sibu5uou7fvi.cloudfront.net (FQDN) --> a_record --> 54.240.184.28 (IPAddress)
+d2sibu5uou7fvi.cloudfront.net (FQDN) --> a_record --> 54.240.184.34 (IPAddress)
+d2v9k48ucjwhpj.cloudfront.net (FQDN) --> a_record --> 13.226.52.107 (IPAddress)
+d2v9k48ucjwhpj.cloudfront.net (FQDN) --> a_record --> 13.226.52.34 (IPAddress)
+d2v9k48ucjwhpj.cloudfront.net (FQDN) --> a_record --> 13.226.52.36 (IPAddress)
+d2v9k48ucjwhpj.cloudfront.net (FQDN) --> a_record --> 13.226.52.45 (IPAddress)
+d32e2icwjqeaf7.cloudfront.net (FQDN) --> a_record --> 54.240.184.109 (IPAddress)
+d32e2icwjqeaf7.cloudfront.net (FQDN) --> a_record --> 54.240.184.3 (IPAddress)
+d32e2icwjqeaf7.cloudfront.net (FQDN) --> a_record --> 54.240.184.56 (IPAddress)
+d32e2icwjqeaf7.cloudfront.net (FQDN) --> a_record --> 54.240.184.98 (IPAddress)
+d37rcut28cqq7z.cloudfront.net (FQDN) --> a_record --> 52.85.78.111 (IPAddress)
+d37rcut28cqq7z.cloudfront.net (FQDN) --> a_record --> 52.85.78.117 (IPAddress)
+d37rcut28cqq7z.cloudfront.net (FQDN) --> a_record --> 52.85.78.53 (IPAddress)
+d37rcut28cqq7z.cloudfront.net (FQDN) --> a_record --> 52.85.78.87 (IPAddress)
+d3k6pjpuip6jck.cloudfront.net (FQDN) --> a_record --> 13.32.87.13 (IPAddress)
+d3k6pjpuip6jck.cloudfront.net (FQDN) --> a_record --> 13.32.87.26 (IPAddress)
+d3k6pjpuip6jck.cloudfront.net (FQDN) --> a_record --> 13.32.87.31 (IPAddress)
+d3k6pjpuip6jck.cloudfront.net (FQDN) --> a_record --> 13.32.87.80 (IPAddress)
+d3shq3yr2ghand.cloudfront.net (FQDN) --> a_record --> 108.157.229.120 (IPAddress)
+d3shq3yr2ghand.cloudfront.net (FQDN) --> a_record --> 108.157.229.126 (IPAddress)
+d3shq3yr2ghand.cloudfront.net (FQDN) --> a_record --> 108.157.229.3 (IPAddress)
+d3shq3yr2ghand.cloudfront.net (FQDN) --> a_record --> 108.157.229.31 (IPAddress)
+deudaexternapublica.bcb.gob.bo
+deudaexternapublica.bcb.gob.bo (FQDN) --> cname_record --> deudaexternapublicabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.6df38519dc51.i2.checkpoint.com (FQDN)
+deudaexternapublicabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.6df38519dc51.i2.checkpoint.com (FQDN) --> cname_record --> d3shq3yr2ghand.cloudfront.net (FQDN)
+devops.bcb.gob.bo
+djdivisas.bcb.gob.bo
+dqch7070ku95r.cloudfront.net (FQDN) --> a_record --> 3.166.160.22 (IPAddress)
+dqch7070ku95r.cloudfront.net (FQDN) --> a_record --> 3.166.160.30 (IPAddress)
+dqch7070ku95r.cloudfront.net (FQDN) --> a_record --> 3.166.160.53 (IPAddress)
+dqch7070ku95r.cloudfront.net (FQDN) --> a_record --> 3.166.160.92 (IPAddress)
+dsjwfmlb1mih7.cloudfront.net (FQDN) --> a_record --> 3.166.181.109 (IPAddress)
+dsjwfmlb1mih7.cloudfront.net (FQDN) --> a_record --> 3.166.181.111 (IPAddress)
+dsjwfmlb1mih7.cloudfront.net (FQDN) --> a_record --> 3.166.181.18 (IPAddress)
+dsjwfmlb1mih7.cloudfront.net (FQDN) --> a_record --> 3.166.181.93 (IPAddress)
+dsqklojgjupkp.cloudfront.net (FQDN) --> a_record --> 108.138.246.41 (IPAddress)
+dsqklojgjupkp.cloudfront.net (FQDN) --> a_record --> 108.138.246.5 (IPAddress)
+dsqklojgjupkp.cloudfront.net (FQDN) --> a_record --> 108.138.246.79 (IPAddress)
+dsqklojgjupkp.cloudfront.net (FQDN) --> a_record --> 108.138.246.82 (IPAddress)
+dwa0jeaynoshs.cloudfront.net (FQDN) --> a_record --> 65.9.46.112 (IPAddress)
+dwa0jeaynoshs.cloudfront.net (FQDN) --> a_record --> 65.9.46.2 (IPAddress)
+dwa0jeaynoshs.cloudfront.net (FQDN) --> a_record --> 65.9.46.83 (IPAddress)
+dwa0jeaynoshs.cloudfront.net (FQDN) --> a_record --> 65.9.46.95 (IPAddress)
+eeb.bcb.gob.bo
+eeb.bcb.gob.bo (FQDN) --> cname_record --> eebbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.ac3a6e59e162.i2.checkpoint.com (FQDN)
+eebbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.ac3a6e59e162.i2.checkpoint.com (FQDN) --> cname_record --> d2v9k48ucjwhpj.cloudfront.net (FQDN)
+etrans.bcb.gob.bo
+etransmld.bcb.gob.bo
+etranspruebas.bcb.gob.bo
+ise01.bcb.gob.bo
+ise02.bcb.gob.bo
+jornadamonetaria.bcb.gob.bo
+jornadamonetaria.bcb.gob.bo (FQDN) --> cname_record --> jornadamonetariabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.eee998458ad6.i2.checkpoint.com (FQDN)
+jornadamonetariabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.eee998458ad6.i2.checkpoint.com (FQDN) --> cname_record --> d32e2icwjqeaf7.cloudfront.net (FQDN)
+lip.bcb.gob.bo
+m.bcb.gob.bo
+m.bcb.gob.bo (FQDN) --> a_record --> 181.114.126.6 (IPAddress)
+mail.bcb.gob.bo
+mail.bcb.gob.bo (FQDN) --> a_record --> 190.129.70.26 (IPAddress)
+mailsec.bcb.gob.bo
+mailsec.bcb.gob.bo (FQDN) --> a_record --> 181.114.126.25 (IPAddress)
+mld.bcb.gob.bo
+mma.bcb.gob.bo
+mri.bcb.gob.bo
+negociacion.bcb.gob.bo
+ns.bcb.gob.bo
+ns.bcb.gob.bo (FQDN) --> a_record --> 190.129.70.23 (IPAddress)
+ns2.bcb.gob.bo
+ns2.bcb.gob.bo (FQDN) --> a_record --> 181.114.126.19 (IPAddress)
+nube.bcb.gob.bo
+nube.bcb.gob.bo (FQDN) --> cname_record --> nubebcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.db8b3e95326c.i2.checkpoint.com (FQDN)
+nubebcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.db8b3e95326c.i2.checkpoint.com (FQDN) --> cname_record --> dwa0jeaynoshs.cloudfront.net (FQDN)
+otp.bcb.gob.bo
+owa.bcb.gob.bo
+pagostgn.bcb.gob.bo
+pagostgnpruebas.bcb.gob.bo
+pruebas.bcb.gob.bo
+registros.bcb.gob.bo
+registros.bcb.gob.bo (FQDN) --> a_record --> 181.114.126.10 (IPAddress)
+scav.bcb.gob.bo
+serv01.bcb.gob.bo
+sgr.bcb.gob.bo
+sibfa.bcb.gob.bo
+simuladoratm-bcbeduca.bcb.gob.bo
+simuladoratm-bcbeduca.bcb.gob.bo (FQDN) --> cname_record --> simuladoratm-bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.21abd664af1b.i2.checkpoint.com (FQDN)
+simuladoratm-bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.21abd664af1b.i2.checkpoint.com (FQDN) --> cname_record --> d37rcut28cqq7z.cloudfront.net (FQDN)
+simuladorqr-bcbeduca.bcb.gob.bo
+simuladorqr-bcbeduca.bcb.gob.bo (FQDN) --> cname_record --> simuladorqr-bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.223551a0a707.i2.checkpoint.com (FQDN)
+simuladorqr-bcbeducabcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.223551a0a707.i2.checkpoint.com (FQDN) --> cname_record --> d2bcel9yqlak3k.cloudfront.net (FQDN)
+sipp.bcb.gob.bo
+sislav.bcb.gob.bo
+solicituddeatencion.bcb.gob.bo
+solicituddeatencion.bcb.gob.bo (FQDN) --> cname_record --> solicituddeatencionbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.d620a970b0fd.i2.checkpoint.com (FQDN)
+solicituddeatencionbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.d620a970b0fd.i2.checkpoint.com (FQDN) --> cname_record --> dsjwfmlb1mih7.cloudfront.net (FQDN)
+spt.bcb.gob.bo
+sspj.bcb.gob.bo
+subastaymesa.bcb.gob.bo
+ventadirecta.bcb.gob.bo
+vpnc3.bcb.gob.bo
+vpncont.bcb.gob.bo
+vpnext.bcb.gob.bo
+webmail.bcb.gob.bo
+webmail.bcb.gob.bo (FQDN) --> a_record --> 186.121.206.88 (IPAddress)
+webmail.bcb.gob.bo (FQDN) --> a_record --> 190.129.70.22 (IPAddress)
+ws01.bcb.gob.bo (FQDN) --> a_record --> 200.87.133.250 (IPAddress)
+www.bcb.gob.bo
+www.bcb.gob.bo (FQDN) --> cname_record --> wwwbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.8ac76fca0077.i2.checkpoint.com (FQDN)
+www.pagostgnpruebas.bcb.gob.bo
+wwwbcbgobbo.dafb4919-0891-4437-91a6-87d74e292ad8.8ac76fca0077.i2.checkpoint.com (FQDN) --> cname_record --> d1qqgrcw2waamm.cloudfront.net (FQDN)

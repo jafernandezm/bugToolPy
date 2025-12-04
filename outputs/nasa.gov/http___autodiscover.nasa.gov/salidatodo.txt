@@ -1,0 +1,6 @@
+http://autodiscover.nasa.gov
+https://autodiscover.nasa.gov/
+https://autodiscover.nasa.gov/owa/
+https://autodiscover.nasa.gov/owa/favicon.ico
+https://autodiscover.nasa.gov/owa/robots.txt
+https://autodiscover.nasa.gov/robots.txt

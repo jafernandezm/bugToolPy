@@ -1,0 +1,6 @@
+https://liquidaciones.datec.com.bo/cdn/shop/t/6/assets/app.min.js?v=76046202003432855101668714741
+https://liquidaciones.datec.com.bo/cdn/shop/t/6/assets/lazysizes.min.js?v=49047110623560880631668714741
+https://liquidaciones.datec.com.bo/cdn/shopifycloud/perf-kit/shopify-perf-kit-2.0.17.min.js
+https://liquidaciones.datec.com.bo/cdn/shopifycloud/shop-js/client.js
+https://liquidaciones.datec.com.bo/cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js
+https://liquidaciones.datec.com.bo/checkouts/internal/preloads.js?locale=es-BO

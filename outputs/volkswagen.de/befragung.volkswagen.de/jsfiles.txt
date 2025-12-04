@@ -1,0 +1,3 @@
+https://befragung.volkswagen.de/evasys/scripts/click.evasys.js
+https://befragung.volkswagen.de/evasys/scripts/detectMobileDevice.min.js
+https://befragung.volkswagen.de/evasys/scripts/previewProfileImage.js

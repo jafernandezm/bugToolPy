@@ -1,0 +1,1 @@
+https://certdist.volkswagen.de/faces/javax.faces.resource/forms/password-meter.png?ln=primefaces&v=7.0.25

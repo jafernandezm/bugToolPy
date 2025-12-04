@@ -1,0 +1,5 @@
+https://tui-gebrauchtmaschinen.volkswagen.de
+https://tui-gebrauchtmaschinen.volkswagen.de/chcredirect/css/responsive.css
+https://tui-gebrauchtmaschinen.volkswagen.de/chcredirect/css/style.css
+https://tui-gebrauchtmaschinen.volkswagen.de/chcredirect/js/general.js
+https://tui-gebrauchtmaschinen.volkswagen.de/gmb/

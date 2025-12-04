@@ -1,0 +1,3 @@
+https://vergleich.volkswagen.de:443/content/vwa-ngw18-feature-apps/ru_header_authorization
+https://vergleich.volkswagen.de:443/f-app/auth/feature-app.umd.js
+https://vergleich.volkswagen.de:443/f-app/key/feature-app-main.umd.js

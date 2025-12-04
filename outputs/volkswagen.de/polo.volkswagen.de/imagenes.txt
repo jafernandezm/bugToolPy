@@ -1,0 +1,3 @@
+http://polo.volkswagen.de//assets/img/arrow-swiper-next.png
+http://polo.volkswagen.de//assets/img/arrow-swiper-prev.png
+http://polo.volkswagen.de/assets/img/polo_vis.jpg

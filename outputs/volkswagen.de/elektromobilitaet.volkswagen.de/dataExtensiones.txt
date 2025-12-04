@@ -1,0 +1,4 @@
+http://elektromobilitaet.volkswagen.de/robots.txt
+http://elektromobilitaet.volkswagen.de:80/assets/pdf/170121VWFS_FL_CF-Card_WEB.pdf
+http://elektromobilitaet.volkswagen.de:80/assets/pdf/VWFS_Broschuere_Ergaenzungsmobilitaet.pdf
+http://elektromobilitaet.volkswagen.de:80/assets/pdf/VWFS_Charge_Fuel_Card.pdf

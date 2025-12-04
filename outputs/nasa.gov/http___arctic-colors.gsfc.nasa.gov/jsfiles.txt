@@ -1,0 +1,3 @@
+https://arctic-colors.gsfc.nasa.gov/globalassets/static/js/jquery.min.js
+https://arctic-colors.gsfc.nasa.gov/gtm.js
+https://arctic-colors.gsfc.nasa.gov/js/jquery.js

@@ -1,0 +1,6 @@
+https://mbif5-qs.volkswagen.de
+https://mbif5-qs.volkswagen.de/
+https://mbif5-qs.volkswagen.de/my.logout.php3?errorcode=19
+https://mbif5-qs.volkswagen.de/my.policy
+https://mbif5-qs.volkswagen.de/public/include/js/common.js
+https://mbif5-qs.volkswagen.de/public/include/js/u_plugin.js

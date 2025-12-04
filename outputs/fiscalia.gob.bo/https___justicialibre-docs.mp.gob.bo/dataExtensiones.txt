@@ -1,0 +1,2 @@
+https://justicialibre-docs.mp.gob.bo/blog/atom.xml
+https://justicialibre-docs.mp.gob.bo/blog/rss.xml

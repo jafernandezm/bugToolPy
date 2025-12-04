@@ -1,0 +1,2 @@
+https://pre-gebrauchtmaschinen.volkswagen.de/gmb/passwordResetRequest/getCaptcha
+https://pre-gebrauchtmaschinen.volkswagen.de/gmb/passwordResetRequest/show

@@ -1,0 +1,3 @@
+http://jl2-idif-gw.stage.mp.gob.bo/
+https://jl2-idif-gw.stage.mp.gob.bo
+https://jl2-idif-gw.stage.mp.gob.bo/1.3.3

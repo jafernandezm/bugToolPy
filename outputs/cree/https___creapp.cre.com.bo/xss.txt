@@ -1,0 +1,2 @@
+https://creapp.cre.com.bo/clwprd/wwv_flow.js_messages?p_app_id=710&p_lang=es-us&p_version=20.2.0.00.20-115925224700
+https://creapp.cre.com.bo/clwprd/wwv_flow.js_messages?p_app_id=710&p_lang=es-us&p_version=20.2.0.00.20-98930761264

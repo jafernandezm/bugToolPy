@@ -1,0 +1,2 @@
+https://odoo.datec.com.bo/web/assets/62441-fa8aa58/1/web.assets_common_minimal.min.js
+https://odoo.datec.com.bo/web/assets/62442-4081150/1/web.assets_frontend_minimal.min.js

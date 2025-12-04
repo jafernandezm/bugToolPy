@@ -1,0 +1,2 @@
+https://biblioteca.fiscalia.gob.bo/api/index.php
+https://biblioteca.fiscalia.gob.bo/jquery/jquery.storageapi.min.js

@@ -1,0 +1,10 @@
+https://cloud.fiscalia.gob.bo/apps/cloud_federation_api
+https://cloud.fiscalia.gob.bo/apps/files/api/v1/showgridview
+https://cloud.fiscalia.gob.bo/apps/files/js/keyboardshortcuts.js?v=4ffbd2ca-28
+https://cloud.fiscalia.gob.bo/apps/oauth2
+https://cloud.fiscalia.gob.bo/apps/password_policy
+https://cloud.fiscalia.gob.bo/apps/provisioning_api
+https://cloud.fiscalia.gob.bo/index.php/apps/provisioning_api/api/v1
+https://cloud.fiscalia.gob.bo/index.php/s/highlight/autohotkey
+https://cloud.fiscalia.gob.bo/index.php/s/highlight/monkey
+https://cloud.fiscalia.gob.bo/index.php/svg/settings/password?color=000&v=1

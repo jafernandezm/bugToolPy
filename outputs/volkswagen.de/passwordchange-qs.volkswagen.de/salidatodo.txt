@@ -1,0 +1,5 @@
+https://passwordchange-qs.volkswagen.de
+https://passwordchange-qs.volkswagen.de/
+https://passwordchange-qs.volkswagen.de/localdocs/extra/libs/jquery.min.js
+https://passwordchange-qs.volkswagen.de/localdocs/extra/toggle_eye.js
+https://passwordchange-qs.volkswagen.de/localdocs/styles/themes/volkswagenag/main.css

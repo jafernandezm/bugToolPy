@@ -1,0 +1,6 @@
+https://ricors.volkswagen.de
+https://ricors.volkswagen.de/
+https://ricors.volkswagen.de/my.logout.php3?errorcode=19
+https://ricors.volkswagen.de/my.policy
+https://ricors.volkswagen.de/public/include/js/common.js
+https://ricors.volkswagen.de/public/include/js/u_plugin.js

@@ -1,0 +1,14 @@
+http://vtpimages.volkswagen.de/robots.txt
+https://vtpimages.volkswagen.de/.well-known/ai-plugin.json
+https://vtpimages.volkswagen.de/.well-known/assetlinks.json
+https://vtpimages.volkswagen.de/.well-known/dnt-policy.txt
+https://vtpimages.volkswagen.de/.well-known/gpc.json
+https://vtpimages.volkswagen.de/.well-known/security.txt
+https://vtpimages.volkswagen.de/.well-known/trust.txt
+https://vtpimages.volkswagen.de/ads.txt
+https://vtpimages.volkswagen.de/app-ads.txt
+https://vtpimages.volkswagen.de/atom.xml
+https://vtpimages.volkswagen.de/feed.xml
+https://vtpimages.volkswagen.de/feeds/all.atom.xml
+https://vtpimages.volkswagen.de/index.xml
+https://vtpimages.volkswagen.de/sitemap.xml

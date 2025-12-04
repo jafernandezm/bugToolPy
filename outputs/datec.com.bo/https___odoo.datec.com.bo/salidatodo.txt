@@ -1,0 +1,15 @@
+https://odoo.datec.com.bo
+https://odoo.datec.com.bo/
+https://odoo.datec.com.bo/en
+https://odoo.datec.com.bo/en/
+https://odoo.datec.com.bo/en/contactus
+https://odoo.datec.com.bo/en/website/social/facebook
+https://odoo.datec.com.bo/en/website/social/linkedin
+https://odoo.datec.com.bo/en/website/social/twitter
+https://odoo.datec.com.bo/web/assets/62438-24c7e11/1/web.assets_common.min.css
+https://odoo.datec.com.bo/web/assets/62441-fa8aa58/1/web.assets_common_minimal.min.js
+https://odoo.datec.com.bo/web/assets/62442-4081150/1/web.assets_frontend_minimal.min.js
+https://odoo.datec.com.bo/web/assets/62447-6409ea1/1/web.assets_frontend.min.css
+https://odoo.datec.com.bo/web/image/website/1/favicon?unique=54b0f19
+https://odoo.datec.com.bo/web/image/website/1/logo/My%20Website?unique=54b0f19
+https://odoo.datec.com.bo/web/login

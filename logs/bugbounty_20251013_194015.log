@@ -1,0 +1,60 @@
+2025-10-13 19:40:15,723 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-13 19:40:15,724 - be.manager - INFO - Objetivos a procesar: 2
+2025-10-13 19:40:15,724 - be.manager - INFO - 💾 Resultados se guardarán en: resultados_agetic/agetic_gob_bo_20251013_194015
+2025-10-13 19:40:15,724 - be.manager - INFO - 
+=======================================================
+2025-10-13 19:40:15,724 - be.manager - INFO - 🎯 Iniciando escaneo para el objetivo base: agetic.gob.bo
+2025-10-13 19:40:15,724 - be.manager - INFO - =======================================================
+2025-10-13 19:40:15,724 - be.manager - INFO -   [+] Ejecutando Módulo PROBING (LIGHT) para encontrar hosts activos...
+2025-10-13 19:40:15,725 - be.modules.probing - INFO -    [Probing] Iniciando sondeo (LIGHT) de 1 objetivos...
+2025-10-13 19:40:27,938 - be.modules.probing - INFO -    [Probing] Resultados finales guardados en: resultados_agetic/agetic_gob_bo_20251013_194015
+2025-10-13 19:40:27,939 - be.manager - INFO -   [+] Ejecutando Módulo URLS sobre 2 hosts activos...
+2025-10-13 19:40:27,944 - be.modules.urls - INFO -      -> Buscando en https://agetic.gob.bo:443 con gau...
+2025-10-13 19:40:27,987 - be.modules.utils.helpers - WARNING - Comando falló con código 2. Stderr: unknown flag: --silent
+Usage of gau:
+      --blacklist strings   list of extensions to skip
+      --config string       location of config file (default $HOME/.gau.toml or %USERPROFILE%\.gau.toml)
+      --fc strings          list of status codes to filter
+      --fp                  remove different parameters of the same endpoint
+      --from string         fetch urls from date (format: YYYYMM)
+      --ft strings          list of mime-types to filter
+      --json                output as json
+      --mc strings          list of status codes to match
+      --mt strings          list of mime-types to match
+      --o string            filename to write results to
+      --providers strings   list of providers to use (wayback,commoncrawl,otx,urlscan)
+      --proxy string        http proxy to use
+      --retries uint        retries for HTTP client
+      --subs                include subdomains of target domain
+      --threads uint        number of workers to spawn (default 1)
+      --timeout uint        timeout (in seconds) for HTTP client (default 45)
+      --to string           fetch urls to date (format: YYYYMM)
+      --verbose             show verbose output
+      --version             show gau version
+2025-10-13 19:40:27,987 - be.modules.urls - ERROR -      [gau] ❌ Error al ejecutar: Fallo en herramienta externa: echo
+2025-10-13 19:40:27,988 - be.modules.urls - INFO -      -> Buscando en https://agetic.gob.bo:443 con katana...
+2025-10-13 19:41:15,273 - be.modules.urls - INFO -      [katana] Encontró 410 URLs.
+2025-10-13 19:41:15,273 - be.modules.urls - INFO -      -> Buscando en http://agetic.gob.bo:80 con gau...
+2025-10-13 19:41:15,287 - be.modules.utils.helpers - WARNING - Comando falló con código 2. Stderr: unknown flag: --silent
+Usage of gau:
+      --blacklist strings   list of extensions to skip
+      --config string       location of config file (default $HOME/.gau.toml or %USERPROFILE%\.gau.toml)
+      --fc strings          list of status codes to filter
+      --fp                  remove different parameters of the same endpoint
+      --from string         fetch urls from date (format: YYYYMM)
+      --ft strings          list of mime-types to filter
+      --json                output as json
+      --mc strings          list of status codes to match
+      --mt strings          list of mime-types to match
+      --o string            filename to write results to
+      --providers strings   list of providers to use (wayback,commoncrawl,otx,urlscan)
+      --proxy string        http proxy to use
+      --retries uint        retries for HTTP client
+      --subs                include subdomains of target domain
+      --threads uint        number of workers to spawn (default 1)
+      --timeout uint        timeout (in seconds) for HTTP client (default 45)
+      --to string           fetch urls to date (format: YYYYMM)
+      --verbose             show verbose output
+      --version             show gau version
+2025-10-13 19:41:15,287 - be.modules.urls - ERROR -      [gau] ❌ Error al ejecutar: Fallo en herramienta externa: echo
+2025-10-13 19:41:15,287 - be.modules.urls - INFO -      -> Buscando en http://agetic.gob.bo:80 con katana...

@@ -1,0 +1,4 @@
+https://ecosistema.mp.gob.bo/assets/assets/fonts/assets/js/three.min.js
+https://ecosistema.mp.gob.bo/assets/assets/fonts/assets/js/vanta.globe.min.js
+https://ecosistema.mp.gob.bo/assets/js/three.min.js
+https://ecosistema.mp.gob.bo/assets/js/vanta.globe.min.js

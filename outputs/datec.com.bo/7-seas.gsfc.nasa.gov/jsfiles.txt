@@ -1,0 +1,2 @@
+http://7-seas.gsfc.nasa.gov/js/federated-analytics.all.min.js?agency=NASA&subagency=GSFC&pua=UA-53781545-3
+https://7-seas.gsfc.nasa.gov/js/federated-analytics.all.min.js

@@ -1,0 +1,4 @@
+https://ns4.ylb.gob.bo
+https://ns4.ylb.gob.bo/static/login/
+https://ns4.ylb.gob.bo/static/login/').concat(t,'
+https://ns4.ylb.gob.bo/static/login/index.js

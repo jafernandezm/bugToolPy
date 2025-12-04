@@ -1,0 +1,14 @@
+https://files.mp.gob.bo/.well-known/ai-plugin.json
+https://files.mp.gob.bo/.well-known/assetlinks.json
+https://files.mp.gob.bo/.well-known/dnt-policy.txt
+https://files.mp.gob.bo/.well-known/gpc.json
+https://files.mp.gob.bo/.well-known/security.txt
+https://files.mp.gob.bo/.well-known/trust.txt
+https://files.mp.gob.bo/ads.txt
+https://files.mp.gob.bo/app-ads.txt
+https://files.mp.gob.bo/atom.xml
+https://files.mp.gob.bo/feed.xml
+https://files.mp.gob.bo/feeds/all.atom.xml
+https://files.mp.gob.bo/index.xml
+https://files.mp.gob.bo/robots.txt
+https://files.mp.gob.bo/sitemap.xml

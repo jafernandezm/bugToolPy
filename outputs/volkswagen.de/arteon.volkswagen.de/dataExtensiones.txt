@@ -1,0 +1,2 @@
+http://arteon.volkswagen.de/robots.txt
+http://arteon.volkswagen.de:80/assets/favicon/manifest.json

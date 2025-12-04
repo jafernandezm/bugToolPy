@@ -1,0 +1,5 @@
+https://vergleich.volkswagen.de/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/favicons/apple-touch-icon.png
+https://vergleich.volkswagen.de/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/favicons/favicon-16x16.png
+https://vergleich.volkswagen.de/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/favicons/favicon-32x32.png
+https://vergleich.volkswagen.de/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/favicons/vw_bw.svg
+https://vergleich.volkswagen.de/idhub/etc/clientlibs/vwa-ngw18/ngw18-frontend/clientlibs/statics/img/vw-logo-2x.png

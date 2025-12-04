@@ -1,0 +1,10 @@
+https://m.lso-qsi.volkswagen.de
+https://m.lso-qsi.volkswagen.de/
+https://m.lso-qsi.volkswagen.de/imprint
+https://m.lso-qsi.volkswagen.de/isam/sps/auth
+https://m.lso-qsi.volkswagen.de/isam/sps/samlfedidpqsextb2b/saml20/login?RelayState=https%3A%2F%2Fgps-lcm-preprod.vwgroupsupply.com%2F&SAMLRequest=jZJfS8MwFMW%2FSsl7mrZb9yd0heEQBlPGpj74Ill6uwXTJMtNN%2F32dh3qgyhCXnLIueeXkxQoGu34vA0Hs4FjCxii5WJGXtJK5OlU5LSeDkZ0OMl3dCLklI4H%2BWQ4GiRiNE5I9AQelTUzksXdbonYwtJgECZ0UpINaTLt1kOa80HG02Gc5vkziRZdijIi9M5DCA45Y02s0dIjqvhk9SuexR5MXAFTHSFDh%2BxCWkOlKndEeAu7bNdLWcK03StDolvrJfQ3mZFaaIQL0VogqhN8KXNE8JfkG2uwbcBvwZ%2BUhMfN6ptl75Bq2VDnwXlbxafz3tvWYeucfo%2BlbRiJ3hptkPf1zUjrDbcCFXIjGkAeJN%2FO71a8q4V3E4KVVpOy6AvyV%2BvfJvGJScr%2FQxXsGlAW11e978YuF2urlXy%2FtNOI8HtqGqe9oipa90d5a9CBVLWCikSsLNjPv1J%2BAA%3D%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=YHew0v5ublTOKsY7ZMyvcg%2ByH8Y%2Bkquw0EIpPK61%2FuvjyJXvhqlTO1foRWukgJfJnltJ7IKgTbznUu%2BTSSjb2Mn7v6R52T2V%2BbMFOKatXmTfzJazqr5Bn3FsJYkwtbqHWszE%2B9dNZEBfJKDgz2cmP%2FGifzHIuWSYZZtTCADhL8QqWQBlU1CioyuNlJaQzHps78hcXUIWl8SyOVEVFC8WRJXxLHd66aiQ%2FJkVuJ3NellVHtIa7%2Bi4BLnjdRmHTJSHG5U5Sc%2BCjfijiP2yddWkGbxG%2FJZYOuYi%2F2NqX00twML2PsM5GTqT4XzfOVQXVhOcqnyL3i%2BhsEp1VUjhYh45QA%3D%3D
+https://m.lso-qsi.volkswagen.de/legalinfo
+https://vwgs-qsi.volkswagen.de/b2blinks/imprint/
+https://vwgs-qsi.volkswagen.de/b2blinks/imprint/index.html.en
+https://vwgs-qsi.volkswagen.de/b2blinks/legalinfo/
+https://vwgs-qsi.volkswagen.de/b2blinks/legalinfo/index.html.en

@@ -1,0 +1,8 @@
+http://3dmaggs.larc.nasa.gov/robots.txt
+https://3dmaggs.larc.nasa.gov/app-ads.txt
+https://3dmaggs.larc.nasa.gov/atom.xml
+https://3dmaggs.larc.nasa.gov/feed.xml
+https://3dmaggs.larc.nasa.gov/feeds/all.atom.xml
+https://3dmaggs.larc.nasa.gov/index.xml
+https://3dmaggs.larc.nasa.gov/robot.txt
+https://3dmaggs.larc.nasa.gov/sitemap.xml

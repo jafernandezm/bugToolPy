@@ -1,0 +1,7 @@
+http://mobilebusiness-i.volkswagen.de/
+https://mobilebusiness-i.volkswagen.de
+https://mobilebusiness-i.volkswagen.de/
+https://mobilebusiness-i.volkswagen.de/my.logout.php3?errorcode=19
+https://mobilebusiness-i.volkswagen.de/my.policy
+https://mobilebusiness-i.volkswagen.de/public/include/js/common.js
+https://mobilebusiness-i.volkswagen.de/public/include/js/u_plugin.js

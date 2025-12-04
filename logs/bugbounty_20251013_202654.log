@@ -1,0 +1,72 @@
+2025-10-13 20:26:54,139 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-13 20:26:54,139 - be.manager - INFO - Objetivos cargados: 3
+2025-10-13 20:26:54,139 - be.manager - INFO - [+] Iniciando en modo Reconocimiento...
+2025-10-13 20:26:54,139 - be.manager - INFO - 💾 Resultados para jobsdb.com se guardarán en: outputs/seek/jobsdb_com
+2025-10-13 20:26:54,140 - be.manager - INFO - 
+=======================================================
+2025-10-13 20:26:54,140 - be.manager - INFO - 🎯 Iniciando escaneo para el objetivo: jobsdb.com
+2025-10-13 20:26:54,140 - be.modules.recon - INFO -    [Recon] Iniciando Reconocimiento Pasivo...
+2025-10-13 20:26:54,140 - be.modules.recon - INFO -    [Subdominator] Ejecutando: /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator
+2025-10-13 20:27:11,423 - be.modules.recon - INFO -    [Subdominator] Encontrados 327 subdominios pasivos.
+2025-10-13 20:27:11,424 - be.modules.recon - INFO -    [Subfinder] Ejecutando: /usr/bin/subfinder ; o simplemente 'subfinder' si está en PATH
+2025-10-13 20:27:12,144 - be.modules.utils.helpers - WARNING - Comando falló con código 127. Stderr: __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[1;31mFTL[0m] Program exiting: no input list provided
+/bin/sh: 1: o: Permission denied
+2025-10-13 20:27:12,145 - be.modules.recon - ERROR -    [Subfinder] ❌ Error al ejecutar o parsear: Fallo en herramienta externa: /usr/bin/subfinder
+2025-10-13 20:27:12,145 - be.modules.recon - INFO -    [Amass] Ejecutando: c; o simplemente 'amass' si está en PATH (Timeout Amass: 90s)
+2025-10-13 20:27:12,148 - be.modules.utils.helpers - WARNING - Comando falló con código 127. Stderr: /bin/sh: 1: c: Permission denied
+/bin/sh: 1: o: Permission denied
+2025-10-13 20:27:12,149 - be.modules.recon - ERROR -    [Amass] ❌ Error al ejecutar o parsear: Fallo en herramienta externa: c;
+2025-10-13 20:27:12,149 - be.modules.recon - INFO -    [Urlscan] Consultando urlscan.io (Timeout: 90s)...
+2025-10-13 20:27:13,942 - be.modules.recon - INFO -    [Urlscan] Encontrados 5 subdominios vía API.
+2025-10-13 20:27:13,943 - be.modules.recon - INFO -    [Crt.sh] Consultando crt.sh (Timeout: 90s)...
+2025-10-13 20:27:17,067 - be.modules.recon - INFO -    [Crt.sh] Encontrados 123 subdominios vía Certificados.
+2025-10-13 20:27:17,071 - be.modules.recon - INFO -    [Recon] Total de subdominios únicos encontrados: 328
+2025-10-13 20:27:17,072 - be.modules.recon - INFO -    [Recon] Subdominios brutos guardados en outputs/seek/jobsdb_com/jobsdb_com_subdomains.txt y outputs/seek/jobsdb_com/jobsdb_com_subdomains.json
+2025-10-13 20:27:17,072 - be.manager - INFO -   [+] Ejecutando Módulo PROBING sobre 328 hosts...
+2025-10-13 20:27:17,073 - be.modules.probing - INFO -    [Probing] Iniciando sondeo (LIGHT) de 328 objetivos...
+2025-10-13 20:37:18,092 - be.modules.utils.helpers - WARNING - Comando excedió el tiempo límite (600s): /home/warrior/go/bin/httpx -l /tmp/tmp6u5otuc0 -probe -json -timeout 30 -retries 1 -threads 5 -ports 80,443,8080,8443
+2025-10-13 20:37:18,092 - be.modules.probing - ERROR -    [Probing] ❌ Error al ejecutar httpx: Timeout en herramienta externa
+2025-10-13 20:37:18,093 - be.modules.probing - INFO -    [Probing] Resultados finales guardados en: outputs/seek/jobsdb_com
+2025-10-13 20:37:18,093 - be.manager - INFO - ✅ Escaneo finalizado para: jobsdb.com
+2025-10-13 20:37:18,094 - be.manager - INFO - 💾 Resultados para jobstreet.com se guardarán en: outputs/seek/jobstreet_com
+2025-10-13 20:37:18,094 - be.manager - INFO - 
+=======================================================
+2025-10-13 20:37:18,094 - be.manager - INFO - 🎯 Iniciando escaneo para el objetivo: jobstreet.com
+2025-10-13 20:37:18,094 - be.modules.recon - INFO -    [Recon] Iniciando Reconocimiento Pasivo...
+2025-10-13 20:37:18,095 - be.modules.recon - INFO -    [Subdominator] Ejecutando: /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator
+2025-10-13 20:37:48,125 - be.modules.utils.helpers - WARNING - Comando excedió el tiempo límite (30s): /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator -d jobstreet.com
+2025-10-13 20:37:48,125 - be.modules.recon - ERROR -    [Subdominator] ❌ Error al ejecutar o parsear: Timeout en herramienta externa
+2025-10-13 20:37:48,125 - be.modules.recon - INFO -    [Subfinder] Ejecutando: /usr/bin/subfinder ; o simplemente 'subfinder' si está en PATH
+2025-10-13 20:37:48,931 - be.modules.utils.helpers - WARNING - Comando falló con código 127. Stderr: __    _____           __         
+   _______  __/ /_  / __(_)___  ____/ /__  _____
+  / ___/ / / / __ \/ /_/ / __ \/ __  / _ \/ ___/
+ (__  ) /_/ / /_/ / __/ / / / / /_/ /  __/ /    
+/____/\__,_/_.___/_/ /_/_/ /_/\__,_/\___/_/
+
+		projectdiscovery.io
+
+[[34mINF[0m] Current subfinder version v2.6.0 ([91moutdated[0m)
+[[1;31mFTL[0m] Program exiting: no input list provided
+/bin/sh: 1: o: Permission denied
+2025-10-13 20:37:48,931 - be.modules.recon - ERROR -    [Subfinder] ❌ Error al ejecutar o parsear: Fallo en herramienta externa: /usr/bin/subfinder
+2025-10-13 20:37:48,931 - be.modules.recon - INFO -    [Amass] Ejecutando: c; o simplemente 'amass' si está en PATH (Timeout Amass: 90s)
+2025-10-13 20:37:48,933 - be.modules.utils.helpers - WARNING - Comando falló con código 127. Stderr: /bin/sh: 1: c: Permission denied
+/bin/sh: 1: o: Permission denied
+2025-10-13 20:37:48,933 - be.modules.recon - ERROR -    [Amass] ❌ Error al ejecutar o parsear: Fallo en herramienta externa: c;
+2025-10-13 20:37:48,933 - be.modules.recon - INFO -    [Urlscan] Consultando urlscan.io (Timeout: 90s)...
+2025-10-13 20:37:50,306 - be.modules.recon - INFO -    [Urlscan] Encontrados 15 subdominios vía API.
+2025-10-13 20:37:50,308 - be.modules.recon - INFO -    [Crt.sh] Consultando crt.sh (Timeout: 90s)...
+2025-10-13 20:38:11,383 - be.modules.recon - INFO -    [Crt.sh] Encontrados 164 subdominios vía Certificados.
+2025-10-13 20:38:11,385 - be.modules.recon - INFO -    [Recon] Total de subdominios únicos encontrados: 164
+2025-10-13 20:38:11,385 - be.modules.recon - INFO -    [Recon] Subdominios brutos guardados en outputs/seek/jobstreet_com/jobstreet_com_subdomains.txt y outputs/seek/jobstreet_com/jobstreet_com_subdomains.json
+2025-10-13 20:38:11,385 - be.manager - INFO -   [+] Ejecutando Módulo PROBING sobre 164 hosts...
+2025-10-13 20:38:11,385 - be.modules.probing - INFO -    [Probing] Iniciando sondeo (LIGHT) de 164 objetivos...

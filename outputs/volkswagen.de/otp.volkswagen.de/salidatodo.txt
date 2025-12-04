@@ -1,0 +1,6 @@
+https://otp.volkswagen.de
+https://otp.volkswagen.de/
+https://otp.volkswagen.de/my.logout.php3?errorcode=19
+https://otp.volkswagen.de/my.policy
+https://otp.volkswagen.de/public/include/js/common.js
+https://otp.volkswagen.de/public/include/js/u_plugin.js

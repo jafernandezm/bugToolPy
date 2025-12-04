@@ -1,0 +1,11 @@
+http://web-api.fiscalia.gob.bo/webfiles/images/ley260_print.pdf
+https://web-api.fiscalia.gob.bo/.well-known/ai-plugin.json
+https://web-api.fiscalia.gob.bo/.well-known/assetlinks.json
+https://web-api.fiscalia.gob.bo/.well-known/dnt-policy.txt
+https://web-api.fiscalia.gob.bo/.well-known/gpc.json
+https://web-api.fiscalia.gob.bo/.well-known/security.txt
+https://web-api.fiscalia.gob.bo/.well-known/trust.txt
+https://web-api.fiscalia.gob.bo/ads.txt
+https://web-api.fiscalia.gob.bo/app-ads.txt
+https://web-api.fiscalia.gob.bo/robots.txt
+https://web-api.fiscalia.gob.bo/sitemap.xml

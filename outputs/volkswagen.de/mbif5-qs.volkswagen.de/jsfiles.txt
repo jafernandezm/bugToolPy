@@ -1,0 +1,2 @@
+https://mbif5-qs.volkswagen.de/public/include/js/common.js
+https://mbif5-qs.volkswagen.de/public/include/js/u_plugin.js

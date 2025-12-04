@@ -1,0 +1,2 @@
+https://ricors.volkswagen.de/public/include/js/common.js
+https://ricors.volkswagen.de/public/include/js/u_plugin.js

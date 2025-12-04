@@ -1,0 +1,4 @@
+2025-10-10 15:10:17,901 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-10 15:10:17,901 - be.manager - INFO - 🎯 Iniciando escaneo para: bancofortaleza.com.bo
+2025-10-10 15:10:17,901 - be.modules.recon - INFO - 🚀 Iniciando Reconocimiento Pasivo para bancofortaleza.com.bo...
+2025-10-10 15:10:17,901 - be.modules.recon - INFO -    Ejecutando: subfinder -d bancofortaleza.com.bo -silent

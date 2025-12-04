@@ -1,0 +1,3 @@
+http://tabaluga.volkswagen.de/robots.txt
+http://tabaluga.volkswagen.de:80/docroot/external_sources/tracking/report_suites.json
+http://tabaluga.volkswagen.de:80/docroot/external_sources/tracking/tracking.json

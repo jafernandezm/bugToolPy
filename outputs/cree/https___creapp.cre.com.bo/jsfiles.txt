@@ -1,0 +1,10 @@
+https://creapp.cre.com.bo/i/libraries/apex/minified/desktop_all.min.js
+https://creapp.cre.com.bo/i/libraries/apex/minified/desktop_all.min.js?v=20.2.0.00.20
+https://creapp.cre.com.bo/i/libraries/apex/minified/widget.apexTabs.min.js
+https://creapp.cre.com.bo/i/libraries/apex/minified/widget.apexTabs.min.js?v=20.2.0.00.20
+https://creapp.cre.com.bo/i/libraries/apex/minified/widget.stickyWidget.min.js
+https://creapp.cre.com.bo/i/libraries/apex/minified/widget.stickyWidget.min.js?v=20.2.0.00.20
+https://creapp.cre.com.bo/i/libraries/oraclejet/16.0.1/js/libs/oj/16.0.1/resources/nls/es-US/localeElements.js
+https://creapp.cre.com.bo/i/libraries/oraclejet/16.0.1/js/libs/oj/16.0.1/resources/nls/localeElements.js
+https://creapp.cre.com.bo/i/themes/theme_42/1.2/js/theme42.min.js
+https://creapp.cre.com.bo/i/themes/theme_42/1.2/js/theme42.min.js?v=20.2.0.00.20

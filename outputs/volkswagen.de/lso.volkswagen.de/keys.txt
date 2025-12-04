@@ -1,0 +1,15 @@
+https://lso.volkswagen.de/lona/eai/b2b9ext/images/token.png
+https://lso.volkswagen.de/lona/eai/b2b9ext/pages/login.html?error=error.cookieHint&performLogout=true&logoutURL=/pkmslogout&url=%2Fbctwiki%2Fdownload%2Fattachments%2F284919256%2FWebsite%2520Management%2520Roadmap%25202024_SEO.pdf%3Fapi%3Dv2
+https://lso.volkswagen.de/lona/eai/b2b9ext/pages/login.html?url=/bctwiki/download/attachments/284919256/Website%2520Management%2520Roadmap%25202024_SEO.pdf%3Fapi%3Dv2
+https://lso.volkswagen.de/lona/public/jakarta.faces.resource/token.png?ln=images
+https://lso.volkswagen.de/oauth/
+https://lso.volkswagen.de/oauth/sps/oauth/oauth20/authorize
+https://lso.volkswagen.de/oauth/sps/oauth/oauth20/introspect
+https://lso.volkswagen.de/oauth/sps/oauth/oauth20/jwks/oidcb2b
+https://lso.volkswagen.de/oauth/sps/oauth/oauth20/revoke
+https://lso.volkswagen.de/oauth/sps/oauth/oauth20/token
+https://lso.volkswagen.de/oauth/sps/oauth/oauth20/userinfo
+https://lso.volkswagen.de/oauth/sps/static/ibm-logo.png
+https://lso.volkswagen.de/oauth/sps/static/styles.css
+https://lso.volkswagen.de/umsweb/public/passwordReset/requestPasswordReset.xhtml?url=/back2public
+https://lso.volkswagen.de/umsweb/public/passwordReset/welcome.xhtml

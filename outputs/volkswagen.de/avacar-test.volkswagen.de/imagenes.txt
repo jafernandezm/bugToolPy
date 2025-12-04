@@ -1,0 +1,4 @@
+https://avacar-test.volkswagen.de/localdocs/pics/header-logo.png
+https://avacar-test.volkswagen.de/localdocs/pics/pki_2.png
+https://avacar-test.volkswagen.de/localdocs/pics/token.png
+https://avacar-test.volkswagen.de/localdocs/pics/volkswagenag/brand.png

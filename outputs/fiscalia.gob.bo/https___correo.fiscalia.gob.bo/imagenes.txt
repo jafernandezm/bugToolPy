@@ -1,0 +1,10 @@
+https://correo.fiscalia.gob.bo/img/dwt/ImgCritical_32.png
+https://correo.fiscalia.gob.bo/img/logo/ImgZimbraIcon.gif
+https://correo.fiscalia.gob.bo/img/logo/ImgZimbraLogo_32.gif
+https://correo.fiscalia.gob.bo/img/logo/ImgZimbraLogo_64.gif
+https://correo.fiscalia.gob.bo/img/zimbra/ImgMessage.png
+https://correo.fiscalia.gob.bo/skins/_base/logos/AppBanner_white.png?v=190308062804
+https://correo.fiscalia.gob.bo/skins/_base/logos/LoginBanner_white.png?v=190308062804
+https://correo.fiscalia.gob.bo/skins/_base/logos/NotificationBanner_grey.gif?v=190308062804
+https://correo.fiscalia.gob.bo/skins/harmony/img/harmony/ImgNewSelectPullDownArrow.png?v=190308062804
+https://correo.fiscalia.gob.bo/skins/harmony/img/zimbra.png?v=190308062804

@@ -1,0 +1,6 @@
+https://orion.fiscalia.gob.bo/js/app.c54dc335.js
+https://orion.fiscalia.gob.bo/js/chunk-25a1359a.e657b79d.js
+https://orion.fiscalia.gob.bo/js/chunk-2d0b2ca0.c5d9e6e7.js
+https://orion.fiscalia.gob.bo/js/chunk-4221059e.e4837967.js
+https://orion.fiscalia.gob.bo/js/chunk-49a41c4a.73493d59.js
+https://orion.fiscalia.gob.bo/js/chunk-vendors.27847339.js

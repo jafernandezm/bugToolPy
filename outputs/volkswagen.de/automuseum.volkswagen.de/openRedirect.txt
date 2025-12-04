@@ -1,0 +1,2 @@
+https://www.automuseum-volkswagen.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.automuseum-volkswagen.de%2F
+https://www.automuseum-volkswagen.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.automuseum-volkswagen.de%2F&format=xml

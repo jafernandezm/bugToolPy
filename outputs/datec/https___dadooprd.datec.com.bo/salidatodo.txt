@@ -1,0 +1,10 @@
+http://dadooprd.datec.com.bo/web
+http://dadooprd.datec.com.bo/web/login
+https://dadooprd.datec.com.bo
+https://dadooprd.datec.com.bo/web
+https://dadooprd.datec.com.bo/web/assets/116-3f5e35d/web.assets_frontend.min.css
+https://dadooprd.datec.com.bo/web/assets/16-82c8452/web.assets_frontend_minimal.min.js
+https://dadooprd.datec.com.bo/web/binary/company_logo
+https://dadooprd.datec.com.bo/web/login
+https://dadooprd.datec.com.bo/web/reset_password?
+https://dadooprd.datec.com.bo/web/signup?

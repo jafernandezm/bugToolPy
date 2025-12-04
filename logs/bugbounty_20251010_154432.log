@@ -1,0 +1,15 @@
+2025-10-10 15:44:32,600 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-10 15:44:32,601 - be.manager - INFO - Objetivos a escanear: 1
+2025-10-10 15:44:32,601 - be.manager - INFO - 
+=======================================================
+2025-10-10 15:44:32,601 - be.manager - INFO - 🎯 Iniciando escaneo para: bancofortaleza.com.bo
+2025-10-10 15:44:32,601 - be.manager - INFO - 💾 Resultados se guardarán en: outputs/bancofortaleza_com_bo_20251010_154432
+2025-10-10 15:44:32,601 - be.manager - INFO - =======================================================
+2025-10-10 15:44:32,601 - be.manager - INFO -   [+] Ejecutando Módulo RECON (Recolección Pasiva)...
+2025-10-10 15:44:32,601 - be.modules.recon - INFO -    [Recon] Iniciando Reconocimiento Pasivo...
+2025-10-10 15:44:32,601 - be.modules.recon - INFO -    [Subdominator] Ejecutando: /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator
+2025-10-10 15:44:41,257 - be.modules.recon - INFO -    [Subdominator] Encontrados 12 subdominios pasivos.
+2025-10-10 15:44:41,257 - be.modules.recon - INFO -    [Recon] Total de subdominios únicos encontrados: 12
+2025-10-10 15:44:41,257 - be.manager - INFO - =======================================================
+2025-10-10 15:44:41,257 - be.manager - INFO - ✅ Escaneo finalizado para: bancofortaleza.com.bo
+2025-10-10 15:44:41,257 - be.manager - INFO - =======================================================

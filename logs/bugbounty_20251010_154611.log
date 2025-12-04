@@ -1,0 +1,16 @@
+2025-10-10 15:46:11,535 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-10 15:46:11,536 - be.manager - INFO - Objetivos a escanear: 1
+2025-10-10 15:46:11,536 - be.manager - INFO - 
+=======================================================
+2025-10-10 15:46:11,536 - be.manager - INFO - 🎯 Iniciando escaneo para: bancofortaleza.com.bo
+2025-10-10 15:46:11,536 - be.manager - INFO - 💾 Resultados se guardarán en: bancofortaleza.com.bo/bancofortaleza_com_bo_20251010_154611
+2025-10-10 15:46:11,536 - be.manager - INFO - =======================================================
+2025-10-10 15:46:11,536 - be.manager - INFO -   [+] Ejecutando Módulo RECON (Recolección Pasiva)...
+2025-10-10 15:46:11,536 - be.modules.recon - INFO -    [Recon] Iniciando Reconocimiento Pasivo...
+2025-10-10 15:46:11,536 - be.modules.recon - INFO -    [Subdominator] Ejecutando: /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator
+2025-10-10 15:46:21,539 - be.modules.utils.helpers - WARNING - Comando excedió el tiempo límite (10s): /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator -d bancofortaleza.com.bo
+2025-10-10 15:46:21,540 - be.modules.recon - ERROR -    [Subdominator] ❌ Error al ejecutar o parsear: Timeout en herramienta externa
+2025-10-10 15:46:21,540 - be.modules.recon - INFO -    [Recon] Total de subdominios únicos encontrados: 0
+2025-10-10 15:46:21,540 - be.manager - INFO - =======================================================
+2025-10-10 15:46:21,540 - be.manager - INFO - ✅ Escaneo finalizado para: bancofortaleza.com.bo
+2025-10-10 15:46:21,540 - be.manager - INFO - =======================================================

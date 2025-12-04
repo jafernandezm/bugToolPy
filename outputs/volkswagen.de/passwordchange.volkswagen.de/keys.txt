@@ -1,0 +1,12 @@
+https://passwordchange.volkswagen.de
+https://passwordchange.volkswagen.de/
+https://passwordchange.volkswagen.de/localdocs/extra/libs/jquery-1.9.1.min.js
+https://passwordchange.volkswagen.de/localdocs/extra/libs/jquery.min.js
+https://passwordchange.volkswagen.de/localdocs/extra/toggle_eye.js
+https://passwordchange.volkswagen.de/localdocs/fonts/TheSans_LT_300_Light/TheSans_LT_300_.woff
+https://passwordchange.volkswagen.de/localdocs/fonts/TheSans_LT_500_Regular/TheSans_LT_500_.woff
+https://passwordchange.volkswagen.de/localdocs/fonts/TheSans_LT_700_Bold/TheSans_LT_700_.woff
+https://passwordchange.volkswagen.de/localdocs/icons/icon_eye.png
+https://passwordchange.volkswagen.de/localdocs/pics/header-logo.png
+https://passwordchange.volkswagen.de/localdocs/pics/volkswagenag/brand.png
+https://passwordchange.volkswagen.de/localdocs/styles/themes/volkswagenag/main.css

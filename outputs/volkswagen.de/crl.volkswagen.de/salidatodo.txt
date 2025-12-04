@@ -1,0 +1,4 @@
+http://crl.volkswagen.de/
+http://crl.volkswagen.de/favicon.ico
+http://crl.volkswagen.de/robots.txt
+https://crl.volkswagen.de

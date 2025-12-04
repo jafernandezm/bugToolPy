@@ -1,0 +1,14 @@
+https://pfn.volkswagen.de/logon/LogonPoint/init.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/ctxs.core.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/ctxs.webui.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/external/elliptic.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/external/hammer.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/external/jquery-migrate.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/external/jquery-ui.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/external/jquery.dotdotdot.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/external/jquery.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/external/jquery.ui.touch-punch.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/external/slick.min.js
+https://pfn.volkswagen.de/logon/LogonPoint/receiver/js/external/velocity.min.js
+https://pfn.volkswagen.de/vpn/init/redirection_body_resources.js
+https://pfn.volkswagen.de/vpn/resources.js

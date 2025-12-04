@@ -1,0 +1,3 @@
+gestora.bo
+minsalud.gob.bo
+example.bo

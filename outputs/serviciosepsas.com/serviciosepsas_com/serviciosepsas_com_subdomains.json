@@ -1,0 +1,11 @@
+[
+    "back-app.serviciosepsas.com",
+    "correspondencia.serviciosepsas.com",
+    "mail.serviciosepsas.com",
+    "mail.serviciosepsas.com (FQDN) --> cname_record --> serviciosepsas.com (FQDN)",
+    "serviciosepsas.com",
+    "serviciosepsas.com (FQDN) --> mx_record --> serviciosepsas.com (FQDN)",
+    "test.serviciosepsas.com",
+    "www.serviciosepsas.com",
+    "www.test.serviciosepsas.com"
+]

@@ -1,0 +1,6 @@
+https://vat-qs.volkswagen.de
+https://vat-qs.volkswagen.de/
+https://vat-qs.volkswagen.de/my.logout.php3?errorcode=19
+https://vat-qs.volkswagen.de/my.policy
+https://vat-qs.volkswagen.de/public/include/js/common.js
+https://vat-qs.volkswagen.de/public/include/js/u_plugin.js

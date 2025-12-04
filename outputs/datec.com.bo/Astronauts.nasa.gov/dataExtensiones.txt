@@ -1,0 +1,7 @@
+http://astronauts.nasa.gov/AstronautCode.pdf
+http://astronauts.nasa.gov/astronauts/content/AstroCandbro_sm.pdf
+http://astronauts.nasa.gov/content/AstroCandbro_sm.pdf
+http://astronauts.nasa.gov/content/AstroCandbro_sm_new.pdf
+http://astronauts.nasa.gov/content/Astronaut%20Selection%20and%20Training_2007.pdf
+http://astronauts.nasa.gov/content/Astronaut_Selection_and_Training_2007.pdf
+http://astronauts.nasa.gov:80/robots.txt

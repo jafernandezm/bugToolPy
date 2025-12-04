@@ -1,0 +1,3 @@
+http://ms-elasticsearch.stage.mp.gob.bo/
+https://ms-elasticsearch.stage.mp.gob.bo
+https://ms-elasticsearch.stage.mp.gob.bo/0.0.31

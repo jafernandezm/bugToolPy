@@ -1,0 +1,3 @@
+https://mp-gw.stage.mp.gob.bo
+https://mp-gw.stage.mp.gob.bo/
+https://mp-gw.stage.mp.gob.bo/0.1.26

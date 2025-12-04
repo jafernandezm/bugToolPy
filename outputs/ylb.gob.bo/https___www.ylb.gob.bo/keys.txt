@@ -1,0 +1,1 @@
+https://www.ylb.gob.bo/wp-content/cache/autoptimize/js/'+cwStaffer.plugin_path+'../public/assets/'+key+'.svg'+'

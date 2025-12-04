@@ -1,0 +1,7 @@
+http://sap-lep.volkswagen.de/
+https://sap-lep.volkswagen.de
+https://sap-lep.volkswagen.de/
+https://sap-lep.volkswagen.de/my.logout.php3?errorcode=19
+https://sap-lep.volkswagen.de/my.policy
+https://sap-lep.volkswagen.de/public/include/js/common.js
+https://sap-lep.volkswagen.de/public/include/js/u_plugin.js

@@ -1,0 +1,3 @@
+https://vwg-dev-ksu-web-api.volkswagen.de
+https://vwg-dev-ksu-web-api.volkswagen.de/
+https://vwg-dev-ksu-web-api.volkswagen.de/favicon.ico

@@ -1,0 +1,3 @@
+https://pds.volkswagen.de/vwpds-admin/admin/admin.nocache.js
+https://pds.volkswagen.de/vwpds-admin/js/checkbrowser.js
+https://pds.volkswagen.de/vwpds-admin/js/jquery-3.6.0.min.js

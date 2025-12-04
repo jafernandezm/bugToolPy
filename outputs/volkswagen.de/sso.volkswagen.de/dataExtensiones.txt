@@ -1,0 +1,7 @@
+http://sso.volkswagen.de/fedl/br/file/70AB8A62600586A4A2C223B410586A4A.pdf
+http://sso.volkswagen.de/fedl/br/file/70ABA35223AB22A12012D847EAB22A12/VW01067_SampleLabels.zip
+http://sso.volkswagen.de/portal/cms/b2b/vwb2b_folder/supplycockpit/downloads/genuine_parts/handbuch_fuer_lieferanten/de_handbuch_fuer_original_teile_lieferanten_pdf.file.pdf
+http://sso.volkswagen.de:80/robots.txt
+https://sso.volkswagen.de/kpmweb/robots.txt
+https://sso.volkswagen.de/portal/cms/b2b/vwb2b_folder/supplycockpit/downloads/logistik_docs/volkswagen/de_zielkatalog_pdf.file.pdf
+https://sso.volkswagen.de/sitemap.xml

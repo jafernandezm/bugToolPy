@@ -1,0 +1,2 @@
+http://magazin.volkswagen.de/robots.txt
+http://magazin.volkswagen.de:80/mediaObject/2014_01/currywurst/PDF/Currywurst_Plakat_DE/original/Currywurst_Plakat_DE.pdf

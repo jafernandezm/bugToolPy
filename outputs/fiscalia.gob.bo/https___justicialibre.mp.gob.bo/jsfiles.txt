@@ -1,0 +1,4 @@
+https://justicialibre.mp.gob.bo/assets/index-d3d07ea6.js
+https://justicialibre.mp.gob.bo/assets/index-f3f6a525.js
+https://justicialibre.mp.gob.bo/assets/vendor-76c220cb.js
+https://justicialibre.mp.gob.bo/assets/vendor-d7e61e46.js

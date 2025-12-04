@@ -1,0 +1,8 @@
+http://www03.b2c.volkswagen.de:80/cache/static/script.js
+http://www03.b2c.volkswagen.de:80/dynamicMPB/mpb.aspx/TL/newtouran/portal.js
+http://www03.b2c.volkswagen.de:80/dynamicMPB/mpb.aspx/TL/thetouran/portal.js
+http://www03.b2c.volkswagen.de:80/online/pluginmanager/data/plugincheck.js
+http://www03.b2c.volkswagen.de:80/touran/StaticContent/vw.js
+https://www01.b2c.volkswagen.de/localdocs/js/help.legacy.min.js?v=1645640336767
+https://www01.b2c.volkswagen.de/localdocs/js/help.min.js?v=1645640336767
+https://www01.b2c.volkswagen.de/localdocs/js/polyfill.legacy.min.js?v=1645640336767

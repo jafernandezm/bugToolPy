@@ -1,0 +1,3 @@
+http://jl2-disciplinario-gw.stage.mp.gob.bo/
+https://jl2-disciplinario-gw.stage.mp.gob.bo
+https://jl2-disciplinario-gw.stage.mp.gob.bo/0.1.27

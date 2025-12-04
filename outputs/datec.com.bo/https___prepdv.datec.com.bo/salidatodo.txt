@@ -1,0 +1,11 @@
+http://prepdv.datec.com.bo/web
+http://prepdv.datec.com.bo/web/login
+https://prepdv.datec.com.bo
+https://prepdv.datec.com.bo/
+https://prepdv.datec.com.bo/web
+https://prepdv.datec.com.bo/web/assets/116-3f5e35d/web.assets_frontend.min.css
+https://prepdv.datec.com.bo/web/assets/16-82c8452/web.assets_frontend_minimal.min.js
+https://prepdv.datec.com.bo/web/binary/company_logo
+https://prepdv.datec.com.bo/web/login
+https://prepdv.datec.com.bo/web/reset_password?
+https://prepdv.datec.com.bo/web/signup?

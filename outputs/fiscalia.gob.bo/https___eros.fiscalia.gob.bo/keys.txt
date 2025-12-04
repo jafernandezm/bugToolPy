@@ -1,0 +1,1 @@
+https://eros.fiscalia.gob.bo/api/plataforma/v1/imagenpersonatriton/

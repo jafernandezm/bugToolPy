@@ -1,0 +1,12 @@
+http://elektromobilitaet.volkswagen.de/favicon.ico
+http://elektromobilitaet.volkswagen.de/robots.txt
+http://elektromobilitaet.volkswagen.de:80/
+http://elektromobilitaet.volkswagen.de:80/?intcmp=ms-umweltbonus-share-facebook
+http://elektromobilitaet.volkswagen.de:80/?intcmp=ms-umweltbonus-share-gplus
+http://elektromobilitaet.volkswagen.de:80/?intcmp=ms-umweltbonus-share-pinterest
+http://elektromobilitaet.volkswagen.de:80/?intcmp=ms-umweltbonus-share-twitter
+http://elektromobilitaet.volkswagen.de:80/assets/pdf/170121VWFS_FL_CF-Card_WEB.pdf
+http://elektromobilitaet.volkswagen.de:80/assets/pdf/VWFS_Broschuere_Ergaenzungsmobilitaet.pdf
+http://elektromobilitaet.volkswagen.de:80/assets/pdf/VWFS_Charge_Fuel_Card.pdf
+http://www.elektromobilitaet.volkswagen.de/e-services
+https://elektromobilitaet.volkswagen.de

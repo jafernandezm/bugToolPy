@@ -1,0 +1,19 @@
+2025-10-10 16:28:34,932 - __main__ - INFO - Iniciando BugBounty Framework
+2025-10-10 16:28:34,932 - be.manager - INFO - Objetivos a escanear: 1
+2025-10-10 16:28:34,933 - be.manager - INFO - 
+=======================================================
+2025-10-10 16:28:34,933 - be.manager - INFO - 🎯 Iniciando escaneo para: bancofortaleza.com.bo
+2025-10-10 16:28:34,933 - be.manager - INFO - 💾 Resultados se guardarán en: bancofortaleza.com.bo/bancofortaleza_com_bo_20251010_162834
+2025-10-10 16:28:34,933 - be.manager - INFO - =======================================================
+2025-10-10 16:28:34,933 - be.manager - INFO -   [+] Ejecutando Módulo RECON (Recolección Pasiva)...
+2025-10-10 16:28:34,933 - be.modules.recon - INFO -    [Recon] Iniciando Reconocimiento Pasivo...
+2025-10-10 16:28:34,933 - be.modules.recon - INFO -    [Subdominator] Ejecutando: /home/warrior/Escritorio/web/subdominatod-tools/env/bin/subdominator
+2025-10-10 16:28:57,408 - be.modules.recon - INFO -    [Subdominator] Encontrados 8 subdominios pasivos.
+2025-10-10 16:28:57,408 - be.modules.recon - INFO -    [Recon] Total de subdominios únicos encontrados: 8
+2025-10-10 16:28:57,409 - be.modules.recon - INFO -    [Recon] Subdominios brutos guardados en bancofortaleza.com.bo/bancofortaleza_com_bo_20251010_162834/bancofortaleza_com_bo_subdomains.txt y bancofortaleza.com.bo/bancofortaleza_com_bo_20251010_162834/bancofortaleza_com_bo_subdomains.json
+2025-10-10 16:28:57,409 - be.manager - INFO -   [+] Ejecutando Módulo PROBING (LIGHT - con Httpx)...
+2025-10-10 16:28:57,409 - be.modules.probing - INFO -    [Probing] Iniciando sondeo (LIGHT) de 8 objetivos...
+2025-10-10 16:33:14,178 - be.modules.probing - INFO -    [Probing] Resultados finales guardados en: bancofortaleza.com.bo/bancofortaleza_com_bo_20251010_162834
+2025-10-10 16:33:14,179 - be.manager - INFO - =======================================================
+2025-10-10 16:33:14,179 - be.manager - INFO - ✅ Escaneo finalizado para: bancofortaleza.com.bo
+2025-10-10 16:33:14,179 - be.manager - INFO - =======================================================

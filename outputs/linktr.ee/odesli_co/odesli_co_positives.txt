@@ -1,0 +1,10 @@
+https://api.odesli.co
+https://api.staging.odesli.co
+https://embed.odesli.co
+https://embed.staging.odesli.co
+https://login.odesli.co
+https://login.staging.odesli.co
+https://odesli.co
+https://staging.odesli.co
+https://v2.odesli.co
+https://v2.staging.odesli.co

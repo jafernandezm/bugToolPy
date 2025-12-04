@@ -1,0 +1,10 @@
+https://cloud.fiscalia.gob.bo/download?path=
+https://cloud.fiscalia.gob.bo/index.php/login?redirect_url=/apps/activity/
+https://cloud.fiscalia.gob.bo/index.php/login?redirect_url=/apps/calendar/
+https://cloud.fiscalia.gob.bo/index.php/login?redirect_url=/apps/dashboard/
+https://cloud.fiscalia.gob.bo/index.php/login?redirect_url=/apps/files/
+https://cloud.fiscalia.gob.bo/index.php/login?redirect_url=/apps/logreader/
+https://cloud.fiscalia.gob.bo/index.php/login?redirect_url=/apps/photos/
+https://cloud.fiscalia.gob.bo/index.php/login?redirect_url=/core/preview?fileId%3D
+https://cloud.fiscalia.gob.bo/index.php/login?redirect_url=/index.php/core/search
+https://cloud.fiscalia.gob.bo/index.php/login?redirect_url=/settings/apps/social/contacts

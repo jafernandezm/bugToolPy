@@ -1,0 +1,4 @@
+https://jl.fiscalia.gob.bo/inspinia_v27/css/plugins/datapicker/datepicker3.css
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/datapicker/bootstrap-datepicker.es.min.js
+https://jl.fiscalia.gob.bo/inspinia_v27/js/plugins/datapicker/bootstrap-datepicker.js
+https://jl.fiscalia.gob.bo/password/reset

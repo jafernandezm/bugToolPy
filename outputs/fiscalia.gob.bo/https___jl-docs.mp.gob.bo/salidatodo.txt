@@ -1,0 +1,9 @@
+http://jl-docs.mp.gob.bo/docs/intro/
+https://jl-docs.mp.gob.bo
+https://jl-docs.mp.gob.bo/
+https://jl-docs.mp.gob.bo/assets/css/styles.3bbd9f0a.css
+https://jl-docs.mp.gob.bo/assets/js/main.2854e5a3.js
+https://jl-docs.mp.gob.bo/assets/js/runtime~main.7a3ead15.js
+https://jl-docs.mp.gob.bo/blog/atom.xml
+https://jl-docs.mp.gob.bo/blog/rss.xml
+https://jl-docs.mp.gob.bo/docs/intro

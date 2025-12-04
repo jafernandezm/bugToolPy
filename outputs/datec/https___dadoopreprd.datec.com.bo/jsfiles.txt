@@ -1,0 +1,9 @@
+https://dadoopreprd.datec.com.bo/web/assets/16-82c8452/web.assets_frontend_minimal.min.js
+https://dadoopreprd.datec.com.bo/web/static/lib/bootstrap/js/dist/base-component.js
+https://dadoopreprd.datec.com.bo/web/static/lib/bootstrap/js/dist/dom/data.js
+https://dadoopreprd.datec.com.bo/web/static/lib/bootstrap/js/dist/dom/event-handler.js
+https://dadoopreprd.datec.com.bo/web/static/lib/bootstrap/js/dist/dom/manipulator.js
+https://dadoopreprd.datec.com.bo/web/static/lib/bootstrap/js/dist/dom/selector-engine.js
+https://dadoopreprd.datec.com.bo/web/static/lib/bootstrap/js/dist/modal.js
+https://dadoopreprd.datec.com.bo/web/static/lib/jquery/jquery.js
+https://dadoopreprd.datec.com.bo/web/static/src/public/database_manager.js

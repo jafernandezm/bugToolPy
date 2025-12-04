@@ -1,0 +1,17 @@
+admin.endeandina.bo
+api-endetracker.endeandina.bo
+backadmin.endeandina.bo
+dns1.endeandina.bo
+dns2.endeandina.bo
+dns3.endeandina.bo
+endeandina.bo
+mail.endeandina.bo
+mx.endeandina.bo
+mx1.endeandina.bo
+smartnews.endeandina.bo
+webmail.endeandina.bo
+webmail2.endeandina.bo
+www.backadmin.endeandina.bo
+www.endeandina.bo
+www.webmail.endeandina.bo
+zimbra.endeandina.bo

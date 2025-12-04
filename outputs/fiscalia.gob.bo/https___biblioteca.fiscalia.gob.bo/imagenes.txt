@@ -1,0 +1,9 @@
+https://biblioteca.fiscalia.gob.bo/colorbox/images/border.png
+https://biblioteca.fiscalia.gob.bo/colorbox/images/controls.png
+https://biblioteca.fiscalia.gob.bo/colorbox/images/loading.gif
+https://biblioteca.fiscalia.gob.bo/colorbox/images/loading_background.png
+https://biblioteca.fiscalia.gob.bo/colorbox/images/overlay.png
+https://biblioteca.fiscalia.gob.bo/img/loading.gif
+https://biblioteca.fiscalia.gob.bo/img/progressbar.gif
+https://biblioteca.fiscalia.gob.bo/phpcss/fonts/ew.svg?t39no9
+https://biblioteca.fiscalia.gob.bo/plugins/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0

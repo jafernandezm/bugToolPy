@@ -1,0 +1,16 @@
+http://automuseum.volkswagen.de/fileadmin/templates/main/res/jquery-1.8.3.min.js?1398325316
+http://automuseum.volkswagen.de/fileadmin/templates/main/res/jquery.screwdefaultbuttonsV2.min.js?1398325315
+http://automuseum.volkswagen.de/fileadmin/templates/main/res/jquery.screwdefaultbuttonsV2.min.js?1471009587
+http://automuseum.volkswagen.de/fileadmin/templates/main/res/jquery.slides.min.js?1398325315
+http://automuseum.volkswagen.de/fileadmin/templates/main/res/main.js?1401696611
+http://automuseum.volkswagen.de/fileadmin/templates/main/res/main.js?1435848614
+http://automuseum.volkswagen.de/fileadmin/templates/main/res/main.js?1471363127
+http://automuseum.volkswagen.de:80/fileadmin/js/wopen.js
+https://www.automuseum-volkswagen.de/wp-content/cache/borlabs-cookie/1/borlabs-cookie-config-de.json.js?ver=3.3.17-53
+https://www.automuseum-volkswagen.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=3.3.17
+https://www.automuseum-volkswagen.de/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+https://www.automuseum-volkswagen.de/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.32.2
+https://www.automuseum-volkswagen.de/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js
+https://www.automuseum-volkswagen.de/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.11.13
+https://www.automuseum-volkswagen.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+https://www.automuseum-volkswagen.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1

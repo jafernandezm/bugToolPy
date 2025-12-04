@@ -1,0 +1,12 @@
+https://lso.volkswagen.de/lona/eai/b2b9ext/images/pki.png
+https://lso.volkswagen.de/lona/eai/b2b9ext/images/token.png
+https://lso.volkswagen.de/lona/eai/b2b9ext/images/view-disabled.svg
+https://lso.volkswagen.de/lona/eai/b2b9ext/images/vwag_logo.gif
+https://lso.volkswagen.de/lona/eai/b2b9ext/pages/login.html?url=%2F..%2Fimages%2Fview-enabled.svg
+https://lso.volkswagen.de/lona/public/jakarta.faces.resource/images/pki.png
+https://lso.volkswagen.de/lona/public/jakarta.faces.resource/images/ui-icons_4c5356_256x240.png?ln=primefaces-vwag&v=13.0.4&e=13.0.4
+https://lso.volkswagen.de/lona/public/jakarta.faces.resource/images/ui-icons_4c5356_256x240.png?ln=primefaces-vwag&v=13.0.8&e=13.0.8
+https://lso.volkswagen.de/lona/public/jakarta.faces.resource/images/ui-icons_4c5356_256x240.png?ln=primefaces-vwag&v=14.0.12&e=14.0.12
+https://lso.volkswagen.de/lona/public/jakarta.faces.resource/token.png?ln=images
+https://lso.volkswagen.de/lona/public/jakarta.faces.resource/vwag_logo.gif?ln=images
+https://lso.volkswagen.de/oauth/sps/static/ibm-logo.png

@@ -1,0 +1,5 @@
+https://rrhh.mp.gob.bo
+https://rrhh.mp.gob.bo/assets/index.5eb8c8c9.css
+https://rrhh.mp.gob.bo/assets/index.7786441a.js
+https://rrhh.mp.gob.bo/layout/css/layout-light.css
+https://rrhh.mp.gob.bo/theme/purple/theme-light.css

@@ -1,0 +1,2 @@
+https://cocoa.volkswagen.de:8443
+https://cocoa.volkswagen.de:8443/localdocs/styles/themes/volkswagenag/main.css

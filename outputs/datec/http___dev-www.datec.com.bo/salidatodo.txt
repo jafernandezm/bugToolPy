@@ -1,0 +1,2 @@
+http://dev-www.datec.com.bo
+https://dev-www.datec.com.bo/

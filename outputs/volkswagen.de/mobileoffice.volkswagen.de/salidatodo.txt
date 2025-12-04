@@ -1,0 +1,7 @@
+http://mobileoffice.volkswagen.de:80/
+http://mobileoffice.volkswagen.de:80/cgi-bin/global.exe
+http://mobileoffice.volkswagen.de:80/cgi-bin/login.exe
+http://mobileoffice.volkswagen.de:80/robots.txt
+http://mobileoffice.volkswagen.de:80/vmo/login.asp
+http://mobileoffice.volkswagen.de:80/vmo/login.php
+https://mobileoffice.volkswagen.de

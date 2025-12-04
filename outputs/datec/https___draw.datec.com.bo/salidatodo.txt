@@ -1,0 +1,15 @@
+http://draw.datec.com.bo/
+https://draw.datec.com.bo
+https://draw.datec.com.bo/Cascadia.woff2
+https://draw.datec.com.bo/Virgil.woff2
+https://draw.datec.com.bo/apple-touch-icon.png
+https://draw.datec.com.bo/assets/$%7Bu%7D
+https://draw.datec.com.bo/assets/index-ByaD6SJD.js
+https://draw.datec.com.bo/assets/index-DFgubr7g.css
+https://draw.datec.com.bo/assets/index-DwztkFIo.js
+https://draw.datec.com.bo/assets/index-RlW50oNu.css
+https://draw.datec.com.bo/favicon-16x16.png
+https://draw.datec.com.bo/favicon-32x32.png
+https://draw.datec.com.bo/fonts/fonts.css
+https://draw.datec.com.bo/manifest.webmanifest
+https://draw.datec.com.bo/sitemap.xml
